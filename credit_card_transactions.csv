@@ -1,0 +1,501 @@
+transaction_id,customer_id,date,merchant,amount,location,payment_type,category,status
+23b8c1e9-3924-46de-beb1-3b9046685257,bdd640fb-0667-4ad1-9c80-317fa3b1799d,2025-06-03 17:43:19,Rhodes PLC,3233.19,New Roberttown,Online,Fuel,Success
+32e70629-8fad-41a6-86cb-0fb39a1de644,815ef6d1-3b8f-4a18-b7f8-a88b17fc695a,2025-05-30 18:24:38,"Miles, Barnes and Cole",783.74,Lisatown,Online,Travel,Success
+27cd8130-4722-4389-971a-a8766c307511,b2b9437a-28df-4ec4-8e4a-2bbdc241330b,2025-02-22 12:57:08,Garcia-James,255.74,Melanieview,Online,Entertainment,Success
+ec1b8ca1-f91e-4d4c-9ff4-9b7889463e85,759cde66-bacf-43d0-8b1f-9163ce9ff57f,2025-03-26 05:36:56,Arnold Ltd,3049.89,Barbaraland,Online,Bills,Success
+daf61a26-146d-4f31-bc37-7a4c4a15544d,c5e7ce8a-3a57-4a8e-a948-8d990bbb2599,2025-02-25 22:24:05,James Group,2987.4,Franciscostad,Online,Shopping,Success
+12476f57-a5e5-45ab-aefc-fad8efc89849,b3aa7efe-4458-4885-ab90-99a435a240ae,2025-05-10 00:16:25,"Jackson, Daniel and Martin",1767.23,Nelsonside,Online,Entertainment,Failed
+3aa2e4f9-0e51-430d-86a7-ee39c4b032cc,d7c524a5-5304-417f-af42-e12f3838b326,2025-06-20 07:23:42,Trujillo Group,1749.31,Carlshire,Online,Bills,Success
+e27a984d-6548-41d0-bfcd-9eb1a7cad415,366eb16f-508e-4ad7-b7c9-3acfe059a0ee,2025-07-08 07:37:05,"Ellis, Baker and Wright",4252.72,Juliechester,POS,Food,Success
+2369b584-ff5e-4ff0-bf50-bde4382567b8,5cabcc97-663f-4c97-9562-69f0e5d7b875,2025-04-20 16:04:55,Davis-Williams,2727.52,East Courtneychester,POS,Travel,Success
+877409a9-77d2-4e02-bf01-cf99988c24c9,61b1cd22-6280-4c45-9043-5a1098ae4334,2025-03-01 13:11:31,"Valencia, Smith and Le",4164.08,Kaylamouth,POS,Entertainment,Success
+b8db0672-f42d-47cc-80d4-af5974273ca3,287d06ca-6f4c-469a-8b22-d3081c8eaee9,2025-06-30 19:17:16,"Baker, Mason and White",324.54,Port Colleenhaven,Online,Fuel,Failed
+f4188f3f-8a14-4e62-a95b-4715c333e861,5fb8d16c-2720-497d-b2eb-d6899be578c7,2025-06-11 22:10:47,"Sellers, George and Burns",4291.06,West Natashaport,Online,Bills,Success
+15ed6269-1429-4c07-b26b-4776913e4de2,e0c53cb8-3da9-42a9-8ed4-2f1a3d4cbf37,2025-06-02 20:27:14,Cabrera-Spence,3214.85,East Donna,POS,Shopping,Success
+6c52c49f-9b49-4d26-9f57-c59a8715a103,43dac043-2a45-42ab-8cbf-edb0f264accc,2025-02-21 20:34:07,"Campos, Vaughn and Marquez",1126.58,Carneystad,POS,Travel,Success
+1064005c-3985-43cf-bf76-be1d1efa2197,7394988f-847f-49b4-a64d-1bcb702753a1,2025-03-18 09:06:37,Chapman and Sons,938.58,North Chad,Online,Shopping,Success
+5496f63c-dc11-40c1-880a-adfbe7c99b26,114125c6-3a9b-4dd4-8f12-59e0a18ff6b6,2025-01-25 11:44:12,"Young, Caldwell and Lewis",1422.74,Lake Selena,Online,Health,Success
+683514f2-ceb8-4f9d-b914-c120c8dcd19f,3e351128-7900-47f9-9382-9b43922fe15a,2025-02-17 16:53:31,Davis Group,3902.4,Rodneymouth,Online,Food,Success
+1931e9ee-a56c-4941-bbf2-4050a748dbcf,ac619e63-0dde-49a6-baa4-b71add2467ac,2025-01-23 11:59:34,Chandler-Mcbride,2065.71,East Jamesside,Online,Entertainment,Failed
+dfde4fbf-3ff3-40bf-b66e-cb15474ebc19,2ef91276-6c00-4f61-a3e2-fcb472d8567d,2025-07-10 00:14:49,Ramos PLC,2879.18,North Deniseside,POS,Entertainment,Success
+3c835dc0-d944-4fa5-80e9-ab30ed2662e9,17e011b7-f810-4383-83c7-2ba8d605e770,2025-02-13 00:35:00,Tucker-Lewis,2038.6,Barreraburgh,POS,Shopping,Success
+c8fe3ccd-c8b8-49c6-ad30-49cf43e458fc,63f2ae24-fc3d-4348-808d-4127610461e3,2025-04-10 02:00:36,Henderson-Bernard,1308.47,Mooreport,POS,Bills,Success
+bf7b539b-0f9a-4a4b-8acd-4e10bc594585,944528c0-0ef8-42d6-b7fd-564637bb3eec,2025-03-13 15:01:18,Williams Group,2057.06,North Susan,Online,Shopping,Success
+dca02eec-acda-4acc-9165-e21098543881,118a9d29-2f92-4996-99f1-95d014822f53,2025-02-26 09:38:49,Wilson-Zamora,545.46,New Brooke,Online,Travel,Success
+50fd9d3f-85d5-4695-90b2-b633956b8c0c,a8499b92-6b52-42e3-94fc-dd549e8fc965,2025-07-12 05:33:51,Harris-Moran,883.91,West Randy,POS,Travel,Success
+ef8c485b-c07a-40f2-add4-253b50f0fd0a,750cab75-4ccc-4bc2-a53f-8a28abf3e3fc,2025-01-25 19:35:34,Ellis PLC,3019.85,North Amandahaven,POS,Fuel,Failed
+3e896c64-e117-4ac3-919c-4ea3e1805081,5958a499-eeea-463e-a1e8-ac6843e42caf,2025-03-24 11:38:18,Moore-Bass,4317.82,Cherylhaven,Online,Travel,Success
+1a84a51a-a9d3-47c7-ae87-905e4ca415ea,8dfa6a56-d12d-4c9a-aaf9-15310200b1f0,2025-07-13 01:14:54,Baker Inc,2731.15,West Juan,POS,Health,Success
+439472e6-da58-4e8a-a25d-6b29afffcfd2,341ef40b-57c7-40aa-b7b5-6ea735ebd32d,2025-04-19 20:53:39,King-Odonnell,2230.35,North Cynthiaview,POS,Food,Failed
+430f801d-fad4-49e2-a319-dcb4217d65a0,c56811cd-5563-4616-80e8-5ece0b49452d,2025-02-12 02:32:38,"Ramos, Thornton and Hoffman",4391.68,North Sierraberg,POS,Shopping,Success
+6e068097-25e9-4977-8d72-48e2951f58d0,5e84f058-d5a8-44eb-8939-23de8babce3b,2025-02-05 11:27:24,Parker Inc,621.41,Jasonbury,POS,Entertainment,Success
+6808593f-dfed-4c43-a256-a6dc8f5486b7,c7b5b2bc-5a8a-4eca-9a50-aec3aabc25fa,2025-05-12 06:00:35,"Moore, Spears and Hancock",3836.3,South Angel,Online,Health,Success
+ab7f089a-cd5f-4822-a966-08aaee49f329,c84a7b28-550a-4b46-acab-3301bc8f7d29,2025-06-28 12:20:51,"Cochran, Adams and Cobb",648.15,South Monicafort,POS,Fuel,Success
+d20eac17-4e20-4d1a-9983-36e375d66ed4,eb1fa9f2-d10b-41d0-b317-347038f16a81,2025-06-15 04:05:46,Walker Ltd,1280.27,South Mark,Online,Travel,Success
+8268690b-a438-45b5-99e4-b6714774bc58,c5f8bc16-f786-4b50-91c5-8ef0dd463c09,2025-03-30 08:09:13,"Zavala, Herrera and Crosby",4098.51,West Gregoryview,Online,Shopping,Success
+504d281f-c953-4b63-ba81-edd9587ef344,6f3f920c-98b8-44cc-9bc0-44fc09cb3942,2025-04-06 11:15:37,"Joyce, Wilson and Lam",4739.56,West Bradley,Online,Fuel,Success
+b82c9074-afd5-4ea5-89d7-fd6cce777f00,ecf27e76-8519-4ff4-806e-d6e36fa17735,2025-06-04 19:15:19,"Lambert, Diaz and Jones",3072.31,Cindyville,Online,Entertainment,Success
+5380b904-688c-4015-aab9-7e494f2d4796,81d2c7de-4ce1-4b90-a669-7833b841d0a0,2025-03-30 20:50:21,"Phillips, Martinez and Fisher",2055.06,Byrdburgh,POS,Groceries,Success
+4dcabfb7-001a-4a8b-956f-03508c459ce2,67f48ad5-4d0b-4d1a-91b0-e1d99d9262af,2025-03-08 10:37:56,Jordan PLC,2312.28,Stevenmouth,Online,Entertainment,Success
+cbc84759-f5b7-4cc7-a6b3-c944cb323e35,7922bac2-82dc-4c8e-b6b5-229aacf5e81e,2025-06-03 15:20:47,Hopkins LLC,203.07,Clarencebury,Online,Entertainment,Success
+0bd4a990-0640-4e0f-a5b8-fd4b32fa2de8,ce7ae7f6-3982-4cff-8f77-a665ac3c5640,2025-02-28 06:33:59,Carr-Mack,3568.42,Perryshire,Online,Entertainment,Success
+25c73c44-3e75-43b4-a64f-a6637e8f8095,624c69b6-b244-45a7-b7e5-848131c681ec,2025-05-19 02:58:09,"Smith, Potter and Carrillo",253.92,Port Ronaldburgh,POS,Travel,Success
+3fcb7546-8eb2-4579-8cdb-1ca476ecbdd6,8498e113-b227-462c-b53d-4330cdda24ba,2025-07-08 21:14:15,Bryant Group,1464.54,Stephaniemouth,POS,Entertainment,Success
+e827a1b9-d4a0-4e53-ad3e-e1dc81392443,e45b712e-b822-4688-90a4-44329cd6c852,2025-04-28 02:47:09,Merritt-Manning,3644.43,Colebury,POS,Entertainment,Success
+a07295e9-7c0e-4cd8-8573-e793c715b2b9,c40c5d91-46fd-4062-a33d-c7afd701410d,2025-02-27 04:29:02,Gonzales-Reeves,4056.74,West Matthew,Online,Travel,Success
+b1a6b1f1-620e-49d3-bb33-f3d8269cd696,236c7b87-14a0-4ccb-8a47-6a87e49d681d,2025-02-10 09:38:29,"Lewis, Perry and Rivera",2212.15,Perryborough,POS,Bills,Success
+b20dcb6e-f231-4f17-9586-3a76c51155ff,e7a37e81-63b4-408b-ab8e-869fd5385b0e,2025-01-15 12:32:34,"James, Smith and Bell",3672.47,Castanedachester,Online,Food,Success
+3875394c-e5d6-46e6-9a6e-c2f5ccc42903,8bcf53a1-bc10-4a52-bf5d-2fdf89c8d2ab,2025-04-16 12:49:54,Nelson Group,1762.58,South Matthewfurt,Online,Entertainment,Success
+9f4c3b79-fb10-487f-a0ac-3703eb67146a,77a6e17c-d72b-4108-aa40-5f12b963f37f,2025-04-25 10:42:50,Meadows PLC,2727.8,North Dawnberg,Online,Bills,Success
+362f5e5c-53cd-4268-a10c-f37342999aa4,0cdf742b-2e85-4b21-b631-de9ddde9f863,2025-04-10 00:34:11,Rogers-Hobbs,2366.88,Karenchester,Online,Groceries,Success
+0d557b61-8a17-4dfe-bfc0-0dc804f64d86,78660765-14f7-4e8d-95bc-b8d04094dded,2025-03-20 16:27:03,Santos Ltd,4294.24,Port Anthonybury,Online,Food,Success
+793b4c32-2050-4494-bd11-48022702878b,9f0fda8d-0537-4ff6-96d7-b3b833094d35,2025-05-21 17:25:18,Elliott and Sons,2748.88,Lyonsstad,Online,Travel,Failed
+c71d5e60-1d52-46ab-b7e6-427cbf780e3f,f6b751f7-9b74-4245-9b1b-c8952af43ab7,2025-06-19 19:44:15,Oconnell Inc,4258.61,West Barbarafurt,Online,Bills,Success
+d4a057a7-b0cc-4b3b-9793-b9b413748146,32c5bd89-b70b-4420-b104-3785658b2523,2025-05-13 12:40:44,Garcia LLC,1147.36,Port Tonyaton,POS,Food,Success
+a5c5650c-8186-4576-91a7-26095eddbbbf,a9597663-6daa-4e68-8861-fe1858e25888,2025-03-18 23:46:12,Atkinson Group,110.56,South Susanmouth,POS,Fuel,Failed
+a6846099-f729-4951-8591-31d2bbda0242,2d174fc9-6f7c-45ea-a72a-6d8eb5122df8,2025-03-05 04:11:33,"Morton, Medina and Webb",3947.13,Petersenshire,POS,Bills,Success
+4767d76c-162f-4a24-af43-613cd4aac9a3,3ed8c56c-da09-4fa0-9282-8d8044b591f7,2025-07-01 22:12:59,Sanchez-Marshall,3679.48,Rogersfort,POS,Shopping,Success
+4223623b-cc3e-4dde-9ad5-cf06364d7c87,7cd0129d-2e8d-4e87-9334-20e6d9d80b8d,2025-03-18 19:36:41,Beard-Haynes,1166.73,Angelahaven,Online,Food,Success
+8e200724-7d13-4018-a80b-ac63b856d035,3dc98290-15ea-4b27-b0e9-12f2f2b43abf,2025-06-07 22:49:15,Vaughn Ltd,380.11,Westtown,POS,Shopping,Success
+a9f948b2-4e63-44bb-be49-3f43b118f68d,6786d506-38ba-4abc-8b53-05e517d2582e,2025-05-04 15:45:46,Kennedy-Schmidt,2588.36,Barajasside,Online,Travel,Success
+3b048a8b-405b-4dc9-8e7e-d827455ac762,7428a656-b3ee-4d3b-9a10-412954aebd1b,2025-02-04 03:48:52,"Lee, Wilson and Herrera",3408.54,East Javier,Online,Bills,Success
+98c7472a-864e-4a13-829c-fc0cfa02eaec,96ef2ad6-b97e-4703-86c8-adfe7bf47042,2025-03-07 16:23:13,Wall LLC,4462.41,West Harry,Online,Food,Success
+0df56ac6-f96b-448a-8ba6-eab94639447b,2067bdac-88bd-43d1-b540-b30e039f3a25,2025-04-29 04:21:25,Terry-Martinez,2154.2,Garciatown,POS,Fuel,Success
+f72ada9b-2f32-451e-9738-811d70c2903f,7a8d03aa-782a-45e0-88ca-765192f5df7b,2025-01-21 16:57:01,Everett-Woods,3609.34,South Travisshire,Online,Fuel,Success
+f2f9e5fa-9016-4161-8fa7-01cd2631d00b,26d794d3-0db9-4301-afbb-411aa1235a8c,2025-03-11 17:29:37,Mcknight Inc,3391.28,Obrienbury,POS,Groceries,Success
+dc33e1f9-4c1f-45ab-b156-29eee893be3d,7354ea6f-6160-4459-85c7-504bc693da11,2025-05-06 00:14:36,Torres-Oliver,3784.14,Port Jaredborough,Online,Food,Success
+1337739e-8d4f-4d27-ac7f-0b793d67cde9,2834e4c0-14c8-43b4-a911-d19243bfd931,2025-02-11 03:00:44,Ortiz Ltd,4992.43,Carterbury,Online,Travel,Success
+aff8754d-1238-4630-b43b-65a2dc0f2fcf,b3f6fe0d-4860-4b32-b4fb-0eb949c13de7,2025-02-26 01:21:04,French-Weber,2578.84,South Danny,Online,Health,Success
+1247ea4e-2469-48e8-939e-198b44007d5a,e88da719-2624-4b40-a5cb-63a2398d1ca6,2025-01-23 07:27:03,Sparks PLC,4408.42,Scottmouth,POS,Fuel,Success
+8a3c3b5e-801e-41da-85b1-ed25f1533ae8,670acc5c-b321-4f21-8dd8-eb85b04d3376,2025-04-17 14:46:12,Miller-Williams,4185.35,Navarroview,POS,Food,Success
+93403fad-dc4a-456b-9601-6237ac9ed156,f63fce41-3a9a-4a5e-9761-32ed069f14f1,2025-05-05 17:42:31,Key Ltd,2817.55,Barbaraburgh,Online,Shopping,Success
+ff37d19c-2e76-428b-8735-44f9ea83bf00,7135f221-a6c9-437f-84da-d06a7872bdeb,2025-05-05 09:21:04,Walters-Vasquez,4459.59,South Michaelmouth,Online,Fuel,Success
+b194990b-6961-429e-946e-035a292bd156,db946570-1ac7-4ec0-ab8d-deb45230dfbd,2025-04-17 22:34:13,Bates-Morales,1132.09,South Christopherview,POS,Entertainment,Success
+d32e6dcd-83bc-4478-9d6a-c7b86778043b,c5c5b37a-f85e-46a1-9dad-09b252c21221,2025-01-11 22:52:54,"Booth, Murray and Brown",4279.27,Cindyfort,POS,Fuel,Failed
+218a1536-8c99-4894-845d-cc38341c6494,0d366dfc-c28e-4d70-b129-9889a01ac992,2025-07-10 20:47:09,Kim-Wolfe,4245.91,North Teresabury,Online,Bills,Success
+17dc8eff-6872-43f9-8d60-593603802b70,8d03c91e-4f8d-4238-a88b-78b5b5b453ca,2025-02-24 08:41:54,Murray Inc,316.03,South Sarah,POS,Shopping,Success
+faf14ff0-7b85-479a-95b0-77e06a5d932b,45ff2c83-b495-4b4e-8245-6fb44ab7706e,2025-04-13 10:13:16,Bryant and Sons,1383.58,Leehaven,POS,Bills,Success
+ca3dd859-c5ce-499c-86b8-265911df12d7,dd30de89-22f2-45f2-a11b-868dbf0d073d,2025-06-26 15:22:04,Morgan-French,648.18,Loriport,Online,Food,Success
+7d5911c6-a8f1-4091-bfb8-102d9475dbc9,96418ced-d664-4264-8c6e-27ffb9de7a3a,2025-06-28 17:55:26,Griffin Group,2954.3,Martinside,Online,Bills,Success
+b28f41de-fb14-4bc3-b04b-8590de9e3757,5260001e-eecf-47d2-b491-76f46090d697,2025-02-27 02:25:55,"Reyes, Chase and Jenkins",1610.47,Juliefurt,Online,Health,Success
+26f05fcf-fb16-45db-a6ea-b79ed21c82f8,cada4f80-a9e7-42d4-bd08-b32c62d60e93,2025-04-17 21:54:58,Martinez PLC,1322.7,Mollymouth,Online,Health,Success
+68f45bce-24e7-4e8e-b8f2-142303edd1f8,74f93d17-e912-44bf-86a4-bae41986b4b2,2025-06-29 20:21:33,"Booker, Jones and Harrington",4432.26,Matthewfurt,POS,Shopping,Failed
+889b78d5-dbfd-497e-aca2-b148da330aa1,541cdfcd-da0d-4a5f-948f-8b74a65bb1f2,2025-03-26 12:29:22,Sims-Clay,1260.01,Brennanton,Online,Shopping,Success
+ff574e2b-4991-4b9b-abc2-026faf34cf65,a193c4b2-3c19-471d-9184-05ad9e11d2cd,2025-02-24 21:40:49,"Davis, Good and Hodges",221.45,South Garrettport,POS,Bills,Success
+5bc440f1-4b1a-469b-8e5d-d462cbd00ef2,530a37df-0bc6-4066-8769-165fe746ccb9,2025-03-25 12:24:12,Thomas-Schmidt,4333.91,East Gregory,Online,Fuel,Success
+e9af299d-7f67-4eec-bda7-0577aee1e86b,9ea556aa-61ee-4c5b-9eef-580f9c07a751,2025-05-04 23:13:36,Hall Ltd,3536.26,Stevetown,POS,Food,Success
+28711733-8bed-4b12-ad77-e82f49a23a89,e6b5a92c-771a-4655-8dfc-6ee0e61ede90,2025-01-26 01:44:20,Landry-Huerta,1189.93,Daniellechester,POS,Health,Success
+627b41a1-ffd6-4232-b2ff-e2944d57d880,d865d69a-74f3-4103-8006-6ff2b0b862ef,2025-06-26 10:20:56,Rodriguez-James,3997.19,Baileyport,Online,Entertainment,Success
+90e0b95f-0212-4554-8644-58b46553867d,a881bfd3-d47d-477b-ba5a-91ca059dd55d,2025-06-28 17:01:25,"Osborne, Beltran and Lozano",1046.34,Wallport,POS,Fuel,Success
+a2f963a3-3810-4e66-9a31-b4cccd4b69a9,9b689c88-3ae9-49fe-8c82-18dac696f5e6,2025-02-17 15:35:48,"King, Campos and Saunders",4837.76,Lake Colton,POS,Health,Success
+945ef2e4-088a-43ec-b0d9-c9f8c9e26074,4f1639a0-0a17-491e-a576-9411a0a11839,2025-03-23 13:53:38,"Anderson, Browning and Murphy",2058.42,Thompsonberg,POS,Food,Success
+e9da484a-8075-4f1f-87e5-f0fe5da8d6d2,f8b38a8b-e05f-48bc-8a16-a06cc958e75e,2025-03-05 15:35:13,Scott Group,4854.96,Juliemouth,Online,Fuel,Success
+f76c8ede-c110-4266-a408-a6dc1346d1a9,f6802cdb-77e4-40c7-9d7b-c313cde22f1c,2025-02-24 12:57:29,"Ramsey, Whitney and Coffey",3023.2,Christopherfurt,POS,Health,Success
+bfbf397b-ac3e-4b0d-9e5b-a13d746cdb77,1fa382e8-895c-4d99-83b3-8eb403902c5d,2025-05-22 06:51:09,Richards-Carson,4922.76,Danielbury,Online,Bills,Success
+ea4e3617-53f8-482b-8fb8-64e4f1738856,e25d36eb-9e9a-4f83-8668-03ee78b2b549,2025-05-10 04:42:23,Holland Ltd,1031.39,Blankenshipport,Online,Bills,Success
+4dead645-0986-4beb-b23e-323d0b9bd934,23c86d30-1dde-4969-a886-13dba6348e78,2025-04-17 09:18:52,Davis PLC,4635.32,South Shawn,Online,Health,Success
+965befdf-6b4b-4411-8a4a-0e2df22b5b98,b24cc64f-be3e-4e57-b30a-9e32aba4fc03,2025-06-04 20:44:30,"Moore, Perry and Garcia",4749.48,Gilbertview,POS,Health,Success
+3c71e0be-f357-4560-b1d7-966571818dcf,379efc6e-5edb-4d3c-b0b6-3bcf08601833,2025-06-26 20:12:15,Garcia-Jennings,710.66,Bruceview,POS,Fuel,Success
+1777e8cb-7468-4b98-92fe-2fded918b3e5,f2f25eef-1f45-4bfd-b7dc-67e030974b2b,2025-05-20 10:14:37,May PLC,1698.3,North Kristinbury,POS,Shopping,Success
+c3e15a85-d46e-4104-9190-6f5034885a46,90882eaf-c977-4598-a03c-8c25fd235def,2025-04-29 08:18:46,Willis and Sons,3358.15,Kimtown,POS,Shopping,Success
+402adf9c-8a4b-4f7c-a147-2a15fcce96f6,250a4578-fbe9-4499-9bc0-80fd46fb7bf3,2025-06-15 18:51:41,Rodriguez Inc,1574.65,North Michael,Online,Fuel,Success
+0d6a05b3-43ef-4016-ac9b-662e040a3aae,52e2afd9-96bf-40ab-bce9-15e7c9d6a63b,2025-02-05 08:15:18,"Fisher, Wilson and Brown",2206.45,Stricklandhaven,POS,Groceries,Success
+0b19f88e-9d77-445e-b206-c26938b77c07,80fb9296-73b6-409b-9bea-f6ac97fa7f04,2025-06-01 22:42:55,"Boyd, Ellis and Maynard",3410.57,South Melaniechester,POS,Shopping,Success
+e63658c9-12d0-498d-b18d-4d05e8e22743,b65feea9-7d82-4264-9ba3-62e7afa415e5,2025-01-27 10:01:42,Franklin-Jones,1490.55,Claudiashire,POS,Travel,Success
+4b7e6b3c-87d2-42a6-98ee-ac2bfe9fecaa,6182f347-533f-4a72-b64f-a54a8c611654,2025-04-09 19:59:04,"Jacobs, Garcia and Miles",3780.58,South Shannon,POS,Entertainment,Success
+bac7e2b9-6a7e-4c36-a613-2e6974188109,d3d1bf0f-56c4-48e4-a9ef-afb13a7e8e14,2025-01-30 04:38:58,Simmons-Ortega,822.03,Stephaniefort,Online,Entertainment,Failed
+be9d61ee-18b8-4245-ae8f-75a117dded81,15da705c-d4ef-40aa-975a-81ec112fa612,2025-06-04 04:33:23,Cain-Hawkins,3095.24,Elizabethchester,Online,Groceries,Success
+ea74bb18-de3b-496f-ac45-96f6c012a0ff,f0ede303-aa53-419c-9fa4-bb9f5a856750,2025-05-31 17:54:13,Schmitt PLC,3185.85,Michaelshire,Online,Bills,Success
+1bb43332-d8e7-412f-b968-1c817b70c3b8,a81fdec3-279c-458a-b676-0ce581e5c9f6,2025-03-20 17:10:01,"Richardson, Farmer and Andrews",1295.52,Bruceside,Online,Travel,Success
+076979d6-4477-4442-b187-53e6d4578ad9,a867a096-edd8-47c8-9be7-173706b89231,2025-02-15 18:19:02,Park-Parker,1172.32,Michaelburgh,POS,Food,Success
+bdb025ff-2451-45a4-91d0-59b26699cd99,a847bce7-90fa-4b57-a4ac-2130deaf528d,2025-05-14 16:18:46,Davis PLC,4595.6,South Robert,Online,Groceries,Success
+f10013a7-c6de-42f0-930a-c1c7b8ba8368,4fc77768-5ebb-4ca5-a84b-f9625744f596,2025-05-01 22:41:42,"Miller, Williams and Moore",2376.75,Lake Christophermouth,POS,Groceries,Success
+372f871a-45ee-432d-aa07-f2137129cec7,9b69554d-7c54-435f-ac8c-3b6aa974d079,2025-06-07 07:48:27,"Wilson, Jordan and Campbell",3624.44,Roseport,POS,Groceries,Success
+345512f7-01f7-47ec-8e06-30cd996d5c50,fc04a168-652f-4b49-b873-e57f0ba078e8,2025-03-11 06:14:00,Saunders LLC,3743.91,Marktown,POS,Groceries,Success
+b423ccde-8857-4117-a155-46672112507c,2cfa55b0-6e3f-483a-bf3c-51407f54a511,2025-02-25 09:54:40,"Hansen, Barnett and Gomez",1311.47,Hensleyton,POS,Groceries,Success
+9364f3d0-5024-4dc6-9cb3-3df313eecdc6,ebd14d2c-75b2-4455-84cc-3ede6fac1673,2025-04-05 02:07:38,"Sullivan, Bowman and Roberts",1445.53,Smithmouth,Online,Fuel,Success
+eb7607c9-b08a-4895-94ff-a66675c8e90d,9e3d750d-f296-49f0-8d23-72c22bffe17b,2025-03-22 23:52:23,Kim Inc,1745.65,South Brianna,Online,Shopping,Success
+38b8f24e-56ea-47b3-beed-10b64f6e274b,dedab027-6550-474a-9422-373f862268d1,2025-03-17 09:43:47,Jones Ltd,1976.87,New Williamstad,Online,Entertainment,Success
+3c7c1d85-25cf-4041-90a6-43fea53bc024,d1a69d87-f54e-4019-ba35-844e59e1ac09,2025-01-31 16:37:16,Scott and Sons,2097.24,Port Katherine,POS,Bills,Success
+c1235c91-76c5-40dc-be7e-7419a0c14035,c5d95f51-f387-41bd-ad59-72c6134a5a2f,2025-05-01 04:42:54,"Cole, Glass and Cunningham",4181.17,Michellemouth,POS,Food,Success
+cbdc4318-4d85-43d2-a1a2-748571348c2a,780b3657-117b-455b-b094-4bdb26a524e3,2025-03-06 01:35:22,"Brown, Romero and Collins",3851.41,Johnsonstad,POS,Groceries,Success
+171dabf9-daf4-41a7-ba34-d2e8dd3f7d7e,a508dc95-13a4-4492-897d-e16dd4ea120a,2025-05-11 03:39:51,"Hunter, Ford and Spencer",1823.62,South Reginashire,POS,Bills,Success
+f52d4af2-269e-44c9-8059-9b9379c2d2e4,9ae1a991-524f-43ff-b030-7633a6ded1d8,2025-01-23 17:52:11,Garcia-Nolan,3699.71,Toniland,Online,Groceries,Success
+fdb1429e-7010-4d13-b526-b22d3f6c21f7,0a0537f0-2c2c-422b-a568-95c6812a1f9b,2025-04-07 01:22:17,"Mills, Moore and Watson",2235.6,Paulmouth,Online,Bills,Success
+10df9974-55ab-446d-a5b5-cdc2a181c85e,ca0ac6ac-0d67-438e-990f-0c5badcc3daf,2025-03-16 17:59:16,Grant Group,3427.8,Johnathanberg,POS,Shopping,Success
+4f6b58c8-598d-4aec-aaaf-e5432434a678,a9e27ba9-952e-4abb-94dd-5061555736f8,2025-05-19 02:57:14,"Bates, Anderson and Fletcher",4605.75,West Angelicamouth,Online,Bills,Success
+ff4625af-bd20-463b-b275-b5f3d436a7a8,b3ecb951-ab8c-4f97-a0b7-1785d02ce0c1,2025-05-24 19:46:49,"Davis, Santiago and Romero",3348.7,West Kyleborough,Online,Bills,Success
+23377bbc-fffe-47c8-b9fe-b99c31274148,7c7c404e-c422-403e-b29a-6339577bc55a,2025-02-10 19:36:51,Phillips Inc,2362.32,Lake Matthewberg,Online,Fuel,Success
+c566aa81-b15e-44f6-94d3-07952e4bebc4,29890880-277d-4be9-a070-b6a198e52499,2025-05-13 01:01:08,Griffith Inc,1137.14,Diazbury,POS,Health,Success
+72ecf16e-c8a7-43e9-bfa0-16c2c09cb506,48f1096d-9c4f-4b46-b1b7-01aaf836f571,2025-02-26 04:03:00,"Allen, Sheppard and Mueller",1957.72,West Erika,POS,Fuel,Success
+61c2645a-c733-4304-8822-3120c4f9eccd,7630a8a7-70ca-4dd8-bc04-3f0892070158,2025-04-19 09:13:57,"Barnes, Martin and Gonzalez",2404.5,Port John,Online,Health,Success
+b61e5fdb-1a43-4206-af2d-dcc48df661da,5f07c1a5-dfc6-40ce-bb07-fd31a4244f23,2025-06-24 23:39:40,"Rosales, Mitchell and Hines",436.23,Shannonhaven,Online,Food,Failed
+d11376e0-38d7-4b9a-a916-da57f24823ab,177a8a5f-6ffe-43b3-94bf-7a4b25b8a42f,2025-04-09 07:55:34,Arias-Perry,1076.87,Shawbury,Online,Shopping,Success
+ee4a9b5d-5195-44e3-8737-4c86397b5f51,5ffa46ef-14e4-480c-be99-36a362dbc850,2025-01-30 23:16:41,"Santos, Moody and Taylor",2420.45,Samanthafort,Online,Entertainment,Success
+9d8776a0-72d7-4bdd-b817-99ffb49e04cc,c24369e7-2387-4af6-94c3-a832b231c60b,2025-01-12 17:59:23,Smith and Sons,1355.59,New Shelby,POS,Shopping,Success
+4d183eba-3cd5-4d7f-89c1-0669c6b33fe6,1c76bdf6-6c5a-4c93-871c-08849bdf90f2,2025-02-04 09:22:19,Allen Ltd,4822.3,Brownfort,Online,Shopping,Failed
+b7f28572-3def-4849-9336-4f7e83efa9f3,a1c7cc8a-0435-4b64-893a-d23298c3e3ca,2025-02-08 14:38:02,Patterson-Mendez,629.68,New Robert,Online,Fuel,Success
+f4124360-1153-4e99-9c50-8720f982f4e0,8603156a-15ea-4bcf-ab10-21ceaa143cd8,2025-04-23 21:07:55,"Romero, Mcneil and Spencer",4549.33,Markston,POS,Bills,Failed
+5b6a8102-0428-4378-bf50-23f440ef3935,5f90bed6-fb25-464d-a30a-a767a2bb522b,2025-06-13 20:17:13,Cooper Ltd,1071.82,Port Bonniemouth,Online,Travel,Success
+2cd2a404-a48e-40f1-9042-1dfa56ab087a,8bc78e81-5a30-4528-8b59-95622227219f,2025-06-21 23:23:08,"Marshall, Dominguez and Welch",1577.76,North Jennifer,Online,Food,Success
+33107475-ca86-4225-8b36-e356339b77a8,4b1f0d7b-0977-4513-b52a-7d25f1901b7e,2025-07-02 17:35:59,Stewart LLC,2199.05,Haysside,POS,Travel,Success
+5b62a8df-493e-404d-b0ec-2796a59b457f,c0d7ac73-095f-4a81-80d9-2bce7930ba20,2025-06-28 03:22:27,Glenn LLC,1772.03,Davidstad,POS,Groceries,Success
+62fb26d7-f4db-4a07-a506-f6707092947d,be4969ec-6667-43bb-a3b5-63606fdc0bad,2025-03-18 13:32:33,Crawford Group,4807.86,Sandrahaven,POS,Shopping,Success
+9a3a6103-6e3c-4532-9434-8f626cac028c,ba220065-1526-4718-8d18-0a824447ceab,2025-06-20 09:54:20,Gardner LLC,3695.6,North Markport,POS,Groceries,Success
+71a3fad2-b094-4d2a-aaa9-3b436d15f16f,b7b8c1a5-9a45-493d-b227-890e4e76833a,2025-03-20 23:50:42,Williams-Berg,4146.1,Christinachester,POS,Health,Success
+abd2b512-1335-45db-8eaf-04b5f2a9dc8a,ca9e4a62-fae3-414b-a3b4-42bd46494296,2025-05-15 12:32:28,Cox-Owen,4170.58,North Douglas,Online,Fuel,Success
+3c6a3174-1136-44a5-a050-9c6208e895d7,702c1821-c804-4fb7-ad97-3b679b89e5cb,2025-06-11 21:39:43,"Diaz, Reyes and Bradley",1294.93,Lake Shannon,POS,Bills,Success
+878aaed9-233f-4c82-92ec-89af13aec376,c359810a-71a6-414c-9f3c-44dc5ef787b8,2025-03-23 23:37:41,Edwards-Ramirez,2522.1,North Jillfort,POS,Shopping,Success
+42a259a6-c664-4285-8303-cbc11e2595b8,8fc9c86b-e9dd-4bf5-a311-9aca848af440,2025-05-28 10:34:17,Lewis-Carr,1838.64,Gonzalezberg,POS,Health,Success
+ff4c96d6-71f2-4e8f-b69f-68c3e60fd420,2c33350c-73b9-41d8-92f5-131ada52d2ee,2025-01-28 18:39:07,"Ponce, Downs and Contreras",3021.16,New Amberport,POS,Food,Success
+2c913a7c-a340-4f08-b341-91b8ed6522b4,b5a5f8e6-b639-4f04-a852-4385d9f2dd0d,2025-06-14 20:24:38,Hicks-Martinez,1036.18,Port Dominic,Online,Bills,Success
+77a7e8b7-5e70-465f-9280-c5aa8dd4595b,5c63b6f3-06ba-4cd3-be78-38c9ca55e38b,2025-06-16 18:51:09,"Anderson, Henson and Jones",3815.01,Keyfort,POS,Groceries,Success
+20156a72-12e1-43a6-932c-ae01d2c65ee4,68d0a2a8-c4e7-47dd-a929-de738693fd9d,2025-03-14 06:58:24,"Jones, Owens and Holmes",184.49,Port Kimberly,POS,Entertainment,Success
+80bbae52-6ec0-4269-a108-4dd9f75d1e3c,c48d5650-2e95-42d6-9679-2482a3c988e4,2025-07-07 13:44:39,Guerra PLC,1292.2,West Fred,POS,Groceries,Success
+84d67c4f-f0df-4684-b28e-41225894f7f1,39b86bb2-b596-4a7c-af4a-fa885299e505,2025-07-04 12:10:28,Singleton-King,1784.41,Davidport,POS,Health,Success
+f10d27c8-9780-4215-ab2b-b8e9a417c093,80a8a23d-17ea-4c83-8892-042f9d4b2bf9,2025-05-04 11:31:34,Jackson PLC,1427.49,Meganshire,POS,Entertainment,Success
+a4364fcd-f2d3-4761-8ba3-627914cb0564,07437c3b-dd20-43bf-9342-af080a8bb5b4,2025-06-10 10:44:31,"Baker, Clark and Armstrong",1043.66,South Pamelaside,Online,Shopping,Success
+ceae71cf-ce00-4af0-beb0-51817ba24588,4d560a3d-f4e7-469a-a454-09374a27ebf2,2025-05-24 17:48:22,Evans-Jones,3719.16,East Scottfort,POS,Fuel,Failed
+b7e6a14c-dc8a-4922-9005-680f24c778a5,9b4e164b-5716-4c2e-b43a-da2a76e5ae78,2025-03-14 17:38:23,"Travis, Reed and Ross",4179.88,Zacharyville,POS,Entertainment,Success
+24108e9a-3f77-4cae-b318-b96d44790612,1f5d988f-776a-4f09-bde2-885951b1943c,2025-01-30 12:41:33,Roberts Group,1581.11,Wrightburgh,Online,Fuel,Success
+c35bec2c-3098-47b2-900e-15c0b89bdf7f,93e34c35-ef0a-473d-93d2-d56dd0401587,2025-02-11 16:06:25,Ferrell-Owens,367.18,Tylerland,POS,Shopping,Success
+95560a2d-3713-4466-bda0-6476f778c676,750d112e-8164-4eec-a4ab-851bf1fac6e7,2025-03-21 06:07:40,Williams Group,3788.68,Mitchelltown,Online,Food,Success
+5da39a73-ba3d-47ff-83b4-7ee5e1e89e7e,22498f66-6e51-484d-9b84-edc3d8e049de,2025-06-09 01:20:52,Diaz-Morales,2400.05,West Angela,POS,Health,Success
+d3479a3b-479b-4637-8cc3-6f3bc3affcfe,734a6ca3-8116-43fc-a2e7-c1a612d2fa06,2025-05-12 18:02:01,"Carr, Anderson and Davis",351.75,Lauramouth,POS,Travel,Success
+8255da61-9a3b-4319-b2f5-751024eeb4a6,c14565c7-5d98-4115-b05e-eefe8ece1128,2025-03-30 16:07:00,"Williams, Williams and Reeves",2063.47,Stoneberg,Online,Food,Success
+518b2f21-9cf2-4859-ae6e-2e7253f591dc,23c8afdb-83f8-4f16-a4a4-474c9b33e3a4,2025-02-12 06:49:54,Ewing-Stevenson,4074.6,Brittneyhaven,POS,Travel,Failed
+79928faa-4cbf-431d-901b-cdefb56ff8ce,7d66971e-8847-4c56-827c-9f8cd40ac5e9,2025-06-19 03:10:57,Richardson Ltd,680.41,South Brandytown,POS,Entertainment,Success
+c6b28def-f8d8-47f1-886c-6544a7d4cf50,f791f1e5-43f9-4d6b-b97e-be8798cf1188,2025-05-04 01:24:11,"Perez, Williams and Castillo",1963.85,Hernandezbury,POS,Fuel,Success
+70e7e756-04d9-445e-b0d7-3df71c221cea,b35556a5-f2bd-42f2-9293-f70508150147,2025-03-13 15:25:49,Hernandez-Vaughn,4951.15,Shawfort,POS,Food,Success
+84c86c46-2359-4fa4-b4ad-af890ff1aa9f,ba370623-bc5f-44dd-992f-3c1edf70fb2a,2025-02-20 23:47:59,"Nguyen, Bates and Fox",3726.44,Suemouth,Online,Entertainment,Success
+de1e994a-c5a1-4f5c-ad05-b9125ab28d4a,8bd88fcd-57a2-4e4e-887b-03e5e980f808,2025-05-31 17:16:10,"Schneider, Steele and Bishop",497.82,East Joshua,Online,Shopping,Success
+49fc2cd8-c56b-4d4c-8c30-77c4fb756923,f910abb3-f105-4252-b990-e2c94c6a70f4,2025-05-28 14:35:38,Vaughn Group,867.01,Timothyside,POS,Groceries,Success
+92cf6021-1f33-442d-89ac-908746015028,b8beff3d-cb9f-4f6d-af3a-6f27ef06fccb,2025-05-23 02:48:20,"James, Baird and Cardenas",2402.57,West Bobby,Online,Entertainment,Success
+41a64fed-a7ed-48d8-b13f-8f8cec8be537,58ab4778-143b-45e3-b6d1-f6bbf48f709c,2025-06-05 20:22:02,Lewis-Clayton,1485.32,Sarahview,POS,Travel,Success
+0cfef683-3e11-4afe-bd41-96fe963a8617,bdab07e7-9d9d-428e-9bf6-45f623245211,2025-05-21 19:10:12,"Perez, Hall and Garcia",4627.16,Jenniferville,Online,Bills,Success
+edd97a1a-fa58-4b27-8ce3-e7c3f6eab3a0,01539221-2331-4a28-8550-eca8ae62990c,2025-02-11 09:34:34,Delgado-Gilmore,1201.57,Woodsborough,Online,Fuel,Success
+e86e8e63-0f25-477d-a559-90e74910fade,52380bf2-4988-4418-b6c3-1218c1836315,2025-06-10 00:02:08,Pearson and Sons,449.91,East Robertburgh,Online,Fuel,Success
+7ed17aab-c9b7-49bc-a5a1-6fa9d61169a1,ff46a6bf-094d-416d-ab6d-2fedef158d5b,2025-02-16 21:47:33,"Hayden, Howe and Mcdowell",4138.78,West Ashleyville,POS,Groceries,Success
+8b15bd94-a42d-4cd7-bd35-9f6a74503887,48d90846-55c5-41fc-bba5-7cc8edaf3766,2025-04-23 13:01:08,Small-Anderson,3474.52,Nelsonville,POS,Fuel,Success
+2faabe0b-b7f6-4cdf-81dc-1c60a5f60735,757b6b29-bb2a-4146-a999-394c54a7b69b,2025-01-14 11:09:16,"Rogers, Phillips and Craig",2519.6,East Cheryl,Online,Food,Success
+1634725b-53f3-4073-83e9-6ef46d7df5d0,d3b59af7-67ce-478f-a5a4-983ba383889a,2025-03-30 13:32:08,"Davis, Holden and Woods",3699.22,North Jose,POS,Food,Success
+951c25d5-4d4c-4280-9462-52e7f43ba052,4459bd6e-c0f6-4229-b25d-42593c4b1eec,2025-06-01 02:23:39,"Smith, Valdez and Schwartz",4813.36,Lake Davidport,Online,Fuel,Success
+b41c504f-e346-4415-a526-7a2bec50ace4,80a52e65-afa2-4559-a7c9-620428e333b6,2025-06-10 05:14:12,Vaughn-Fowler,3839.23,Michaelbury,Online,Groceries,Success
+fd247c11-bf6b-4cdf-b479-7b6127372b52,7a6a2107-2231-4050-b515-94943818cfd3,2025-05-09 08:27:56,Perry-Dunn,2266.92,Toddborough,POS,Shopping,Failed
+14f573d0-c991-4032-9f85-c77798874bfe,c1369c65-ae2a-4341-bf59-e4f2c3093b6e,2025-04-23 18:33:21,Rice-Cox,2235.84,North Mariahaven,POS,Travel,Success
+85351a69-dabf-484e-93ff-84612a1f1b61,265cb9d9-8962-4f6e-929c-93b333c08bf1,2025-04-07 12:38:37,Frazier Ltd,2100.91,Davishaven,POS,Travel,Success
+74f0beae-6a59-43ce-8364-35e321c71aa3,741423b5-0e3e-45f2-8f06-71c7720b274b,2025-05-01 05:32:02,Hansen Ltd,1716.04,Jenniferfurt,POS,Fuel,Success
+0b981ccd-12b2-402d-940c-350337c86152,beed0af9-00c5-4f30-9103-142441241bb4,2025-04-04 00:05:25,Graves-Weaver,2062.22,North Valeriefort,Online,Groceries,Success
+a43afb7a-c40d-4874-a2ab-7752c4db5a62,2e13418d-68ab-40ea-897e-c6d1081fc6dc,2025-06-02 08:15:10,"Stuart, Brooks and Vance",1336.75,Kanefurt,Online,Bills,Success
+220b9ea9-8a0f-4508-9fe2-c0a0a96b3c42,f6d22a7b-aec7-4a82-948b-4376602a4e57,2025-05-18 15:12:25,Wilson-Haney,4142.14,Ricebury,Online,Groceries,Success
+ac6a7c85-7687-4c62-8c61-845efa7e5d94,05d1fb63-c194-497f-80e3-a026d5b6de85,2025-05-31 08:44:17,"Coleman, Gray and Hall",1019.15,Reedview,POS,Groceries,Success
+cf39f648-083f-44c3-9ce3-62f8c3f725fe,b99b2b5a-e00d-449d-affa-20023040413c,2025-05-19 22:15:42,Mendez-Mayer,3823.95,East Jamieville,Online,Fuel,Success
+0c760d28-df49-4037-b40a-9181ac09bdb7,99086e47-7249-462c-8898-7462980cb95c,2025-02-28 06:03:40,"Williams, Gonzales and Fernandez",4645.6,East Williamport,POS,Groceries,Success
+991121e7-93d5-43ae-91a3-ac26937bf79b,bb44badc-ea98-4ef8-90d7-5e373bf2025f,2025-06-10 17:48:23,"Cardenas, Young and Walter",4868.42,South Kevin,Online,Shopping,Success
+2cd58759-e95d-4761-bc36-dc59e134edfc,97777f10-f2d2-493f-8e85-140d0f9aeb70,2025-05-13 06:51:25,"Simmons, Simpson and Compton",167.0,Floydmouth,POS,Travel,Success
+c12169db-2f12-4150-a05f-b1eb4cc57e0d,26332018-6883-4c6e-aa94-4054b2414482,2025-04-26 04:26:41,Allen-Perez,4222.89,Port Steven,Online,Groceries,Failed
+2253e706-87ad-4b26-8eaa-58416aa0426d,f7c0d5f7-69a5-4b4f-8ff8-869d0ec0713d,2025-03-28 03:40:53,Scott LLC,3273.78,South Melanieland,Online,Groceries,Failed
+ac75c344-608e-449e-84b9-e6020d31812e,30c36756-d453-4867-b97e-6224891f6912,2025-05-09 04:52:46,"Williams, Jones and Ballard",1530.12,South Jason,POS,Bills,Success
+efe9b3d0-3639-48bf-83ec-e8ffe8b3d763,f4ff3f3a-4d9d-4aeb-953d-2625e8334da5,2025-02-17 15:05:31,"Wilson, Key and Mendoza",4903.2,Lake Cassandra,Online,Groceries,Success
+48769153-c688-43fe-9255-5c758d55119e,3d44cb2c-ea45-4a41-a589-ada1345af934,2025-03-26 15:31:47,Ferguson-Howard,1979.57,Michaelfort,Online,Travel,Success
+d6f89f7a-c2fa-4da8-b830-8631b8f0188e,fb37afae-cd85-43ca-993e-638d774c0afa,2025-03-14 21:54:45,Wood Group,3971.03,New Michelleberg,POS,Health,Failed
+6ae66582-b852-43cd-9442-b5e695831d58,ef4c5119-8da5-439b-82c2-17970426fcc9,2025-03-10 01:12:47,Gonzalez and Sons,2587.91,Hudsonbury,Online,Fuel,Success
+c36b9a0a-41e0-4a89-966a-9ce7af521b94,f186e47a-a794-4320-8cf6-e8b87fd238c3,2025-06-20 06:24:48,Levy-May,4203.63,Murraystad,POS,Shopping,Success
+e3ad64d4-eab9-4b02-af1d-c1217d024c6d,8bea75c1-b866-47aa-a3d4-526b2b54ff7a,2025-04-27 00:03:30,"Bernard, Warren and Combs",2473.27,Port Elizabethtown,POS,Bills,Success
+26a9e100-b509-409b-9166-58ce3b3f3800,a175a9c3-d7b1-42a9-a332-a50e6992896e,2025-01-13 12:07:11,Wagner LLC,1676.71,New Danafort,Online,Entertainment,Success
+0308aa5e-694d-4b00-8d38-8327883f13c6,01b158e9-0406-4f44-bce4-0679a8c6dbc0,2025-01-14 23:28:01,"Bowen, Nichols and Mitchell",1244.46,Drakeburgh,POS,Food,Success
+9ea9f508-3122-4592-bdb0-2235261e2555,863e1f2a-18a8-46ef-ab05-3fc41b656dab,2025-04-23 22:58:48,Ochoa-Adams,2417.58,Millerfurt,POS,Bills,Failed
+af1d5a1a-4ccb-4355-b9d1-c7ffb27e1442,fd7fe973-3e42-4f5b-90a3-fbbf7580e050,2025-06-21 12:33:59,Valdez Ltd,3982.73,North Richardfurt,Online,Groceries,Failed
+152aeaec-2bdf-4b41-b3ed-a8f1026b5383,a301ec03-0e5d-4c6a-b9db-78628d7dd772,2025-04-18 19:01:35,Newman-Rivera,718.61,New Samanthabury,POS,Travel,Success
+45667c48-79ba-430a-9118-c400e336c243,b139c476-de3c-488b-a6b9-d31a361f6d90,2025-01-20 18:30:43,Cohen LLC,2257.5,East Sarahmouth,POS,Food,Success
+b674410d-d218-49d6-8093-bfb024e9bcfd,9647ff9f-3508-407a-b622-d84204022b3c,2025-06-20 03:11:59,Hickman-Evans,2108.9,New Mary,Online,Travel,Success
+bd5ff093-c16f-4bcc-a243-bed754ec3f33,8a624cbd-e582-4678-ad52-29dd639fc471,2025-02-07 21:44:04,"Ramsey, Mason and Mccann",4849.1,North Samuelland,POS,Bills,Success
+f80b2cea-658e-44a2-9879-cf35f4719986,9d264599-c4dd-4df5-9aec-56a857311609,2025-06-10 22:32:40,Johnson-Nelson,4273.65,Henrystad,POS,Health,Success
+a921cb4c-95fb-4976-ae00-7b7e2f8c83e5,6e8d9644-601b-4bcb-b0ee-bcce8d93e14a,2025-03-26 12:47:05,Barton LLC,4448.45,Lake Charles,POS,Food,Success
+bd5a0c9e-277e-40aa-a247-541dc8ad0899,b630794d-6147-4deb-a77b-06674499d0a6,2025-03-28 09:17:15,Ward-Davis,1250.37,Seanview,POS,Entertainment,Success
+8e0370cf-8e96-4227-b2e7-6b516e54ac6d,2ff8e87e-1659-4c89-a1eb-faa91a2bd69c,2025-04-21 05:39:53,Garcia-Davis,2226.46,New Carlymouth,Online,Travel,Success
+15aede0f-c777-407f-a346-d4ef69ef74e3,4ab6821c-0328-4136-a29e-f3d8dd1ca267,2025-06-01 11:32:04,"Stein, Spence and Armstrong",3500.61,Lake Oscar,Online,Food,Success
+2ace1aa9-1032-46b3-a55b-fc1c7e3d5ee4,44b64ec1-4d16-4049-84d7-df9a238b05b7,2025-04-06 03:15:20,Fisher-Washington,374.98,West Johnathanbury,POS,Health,Success
+1b628a9d-7536-4b9f-b20f-72c09dde0188,9803b22e-7eec-488d-a002-352ab88cddde,2025-02-07 00:56:40,Smith-Foster,1296.57,Brockmouth,POS,Shopping,Success
+f966d59f-a6aa-49e5-9c08-bf29d2d33488,d0c30018-6e3c-4d4f-95b1-45e470b27304,2025-05-07 03:35:21,Evans PLC,486.94,South Leon,POS,Entertainment,Success
+a205e54f-b1e8-409d-bc20-b9f24a9c589e,51b30182-f7fe-404f-a5f3-0779f6ee5cdb,2025-04-17 01:46:38,"Casey, Nguyen and Ramirez",2957.47,Diazshire,Online,Groceries,Success
+8cd34c62-c482-4b71-ae84-b81c2e0fb5b3,8bae591e-ff4c-410f-979c-30cf33261887,2025-01-16 22:57:20,"Murray, Erickson and Gonzales",2351.9,Marieland,Online,Groceries,Failed
+23a13e20-7fd2-45ee-ac48-436668bd80d7,cb881c32-cbb0-4a8b-9908-a121d1a7ba20,2025-05-14 17:04:38,Allen-Hopkins,3420.29,Mccormickland,Online,Travel,Success
+81b15db9-88cc-4d49-a69b-29b8950df1a0,7aaf2001-9912-416a-bd9e-8e2072f60958,2025-07-10 01:19:10,"Barnes, Johnson and Schmitt",1793.27,North Kaylastad,POS,Bills,Success
+ad6ecc57-a520-43d0-bbcd-bf5e902f3465,0b570720-9cd8-458b-a5a1-c8252a9528c3,2025-05-17 07:33:40,Rasmussen-Rivera,2338.5,Rodriguezville,POS,Entertainment,Failed
+b00ac64c-949c-48d4-8ed8-a80d84cfee39,bf31c29f-82bb-4d84-b8d5-101f423cad9d,2025-05-03 10:18:31,Griffin Group,4281.34,Bartonshire,Online,Entertainment,Success
+1ac3bf31-7b96-42d1-8649-bcf6ff69723d,584fc85b-2697-484d-801e-8690b0c07fcc,2025-03-10 02:19:53,Knapp-Miller,1858.9,West Larry,POS,Fuel,Success
+18fdd2b9-79e5-49aa-992a-35497ba109d0,8567c805-34f5-41c0-88c5-eb2a7490adeb,2025-04-06 19:31:07,"Horton, Flores and Evans",4167.18,North Melindaville,POS,Fuel,Success
+84182d35-3e71-4433-bd90-b81afbe0e6b8,ee0f65a8-2a13-4c1f-8cd0-15c1ad5900dd,2025-02-14 14:31:42,"Moore, Castro and Mullen",4338.83,Port Richard,Online,Groceries,Success
+bcc57be0-0779-450a-a544-e3136ea05d13,a84554c3-a3f6-4c61-afb7-0dab2f383b43,2025-05-10 23:27:47,Cole Group,4524.38,Smithborough,Online,Health,Success
+93cd1291-1004-4d82-8bc7-2f1acf08ea54,b4299924-c098-4750-8741-9b4834ae4abd,2025-01-31 11:42:59,"Lopez, Nguyen and Ellis",1031.65,Emilyfort,POS,Shopping,Success
+647dc392-9c7e-4575-a37d-dcd698d3148b,503b4078-a39c-4ec6-b746-4c02871854c1,2025-05-05 17:09:27,Bailey Group,4526.68,Port Emily,Online,Fuel,Success
+224a66a6-ac0f-4801-95b2-4e1d97154633,9d4edb71-eb2e-480e-8c25-5823ccf4ffb0,2025-03-13 13:04:07,Allen Inc,263.49,West Heather,POS,Shopping,Success
+6c4c450b-623a-40fc-9326-7d25234b4562,98af5cca-6b11-47cb-a372-542482c56b21,2025-02-16 19:11:32,Reid-Steele,1546.04,New Garrett,POS,Shopping,Success
+0db977a9-9e91-471c-b374-ccbfd78c57d3,508850d3-2fe5-4140-a3ea-795649f1137d,2025-06-28 19:08:36,Crane-Washington,3953.91,Port Patrick,POS,Fuel,Success
+6a66c184-7de1-4f5d-af48-47f068bd075b,7eb6581e-a72f-447d-8164-62cb8fc3d7d3,2025-05-29 15:01:14,Burns-Miller,1359.15,Port Kathleenport,POS,Fuel,Success
+751303b9-c7de-46ea-ab0f-be4449e64c22,89a0b7eb-398f-469b-865c-c2cb085eb489,2025-05-01 13:38:22,"Barton, Simpson and Dixon",1759.7,West Kimberlystad,Online,Groceries,Failed
+8bddcee3-70fd-4672-b80f-16c5c28fa16b,0aa6fcb9-c1bc-4e59-9296-a12d8ac35ac4,2025-02-23 03:59:48,Garcia-Greer,789.71,West Nancy,Online,Bills,Failed
+7066e289-1644-44a0-9115-1fffdcb91d5f,593c572b-4347-4bca-b321-a8b20840405a,2025-06-28 18:03:48,Rowe and Sons,4042.48,Port Joan,POS,Travel,Success
+2a7dc57c-6d9c-4b50-a1fd-41879c3a1e0b,b5f3f8aa-dc6d-4fff-99c2-f153b06b0f0c,2025-05-11 08:59:24,Glover and Sons,168.2,New Michaelview,Online,Groceries,Success
+4a11be44-4aea-4b8f-b43c-de0afa9fc10e,52daf681-2b1a-476c-89ec-bc5198cbaa52,2025-05-02 22:39:31,Farley-Robertson,3770.16,East Sydneychester,POS,Bills,Success
+b390b059-207b-4e21-a7e8-d18eddf6d4ac,46feacd4-fe13-43cd-8f2d-5c15eb346d3a,2025-06-28 21:44:14,Wright Ltd,4707.43,Mariafurt,Online,Entertainment,Success
+600b4b35-6a0a-47d5-a0b8-575544caa5a2,a1e518a2-93d2-48d4-a465-5c397d4d2add,2025-04-09 11:57:05,Schultz Inc,3135.78,Robertsonview,POS,Entertainment,Success
+53c93ae7-7cf0-4bb3-b343-d9eb7466ef02,5e7b72c8-e097-4edb-afb3-b939b1d81887,2025-05-04 17:37:36,Melton Ltd,3213.48,Lake Teresastad,POS,Fuel,Success
+6dfd171a-f7d7-465d-b7c3-b3c965d0b517,88d00abd-cbb1-4c79-9036-708dd9a09007,2025-06-20 21:35:10,Simpson LLC,671.71,Matthewshire,Online,Food,Success
+aebbb90e-e4e7-41de-97ff-51d9c9ce44bd,7c3f1add-da38-4db5-90ee-b067216e9fe5,2025-06-08 17:52:43,Williams Ltd,2513.86,Smithburgh,Online,Entertainment,Success
+fee5ce69-33cb-402e-ad84-414df54191ea,fde91c42-002c-4c22-b4de-5f7070f81dba,2025-05-25 10:35:17,Khan LLC,764.75,Port Sarah,POS,Health,Success
+aa1d3fc6-5f31-473d-9519-830c40198303,5c457e4d-a793-43b8-97e5-2113462623be,2025-07-06 05:31:55,"Martin, Sanders and Torres",3741.39,South Diana,POS,Shopping,Success
+97fb613a-21f8-4d06-93f3-cade7a10013f,36a2c52b-0047-4139-985d-f528b4258e19,2025-02-24 15:38:35,"Frazier, Smith and Dominguez",3309.12,Port Robertberg,POS,Bills,Failed
+1a38aad6-ce53-4ffd-bb13-4f0216de66c9,6210def6-3a9c-4308-9221-cddf7a4a902f,2025-01-31 18:28:17,Richardson-Evans,1470.73,Ayalaberg,POS,Entertainment,Success
+022b6683-9033-4a65-87cf-63fd11836c4f,249204c7-ad58-4b1b-be31-537aa43e558c,2025-05-10 05:48:40,"Martin, Bell and Lewis",4757.72,South Christina,POS,Travel,Failed
+c0a0473a-23d7-46a1-99b8-14fce5871d89,16312fc6-379d-48f9-9c26-8108714011a1,2025-02-04 15:28:18,"Blair, Bell and Jordan",1899.94,East Joshua,POS,Food,Success
+48f091f0-9b8b-48ae-b89f-3a92999a1d86,99db1302-8dab-46d3-bf87-dfc2159152f2,2025-06-11 23:46:45,"Johnson, Boone and Liu",1030.06,New Catherine,Online,Groceries,Success
+e5dd98f1-c8a7-48ab-8df8-3e12a56b61e0,4ba8a4ca-6449-4b6f-bf72-ae52304b2370,2025-06-14 20:47:28,Simpson Inc,1139.32,South Danielle,Online,Food,Success
+ef15ab72-5c70-4e97-bca4-55670316d2d6,fa4a58ef-e383-4348-873d-c8bd122dd7be,2025-03-14 04:23:13,Hughes PLC,1293.49,Diazburgh,Online,Entertainment,Success
+965d744f-0445-41a8-92af-97e4c536c66e,fcc4091b-f457-47c6-b894-6a15c34201db,2025-01-24 20:14:31,Baker Inc,3849.27,Port Raymondport,Online,Entertainment,Success
+66fba71d-b3a9-4caa-ac6f-6d2e6a59c043,c4615234-8044-4eb2-b66e-dbf4a0ea0251,2025-01-27 17:39:32,"Herrera, Jensen and Ramirez",1241.69,Christianborough,Online,Food,Success
+a2611b8d-9620-4ee6-a406-face53a5e850,8950ddd6-27c6-4bb1-8edd-069df96c9a0a,2025-06-08 22:23:59,"Becker, Jones and Hale",4921.74,North John,Online,Fuel,Success
+4f2da233-0e16-4b12-9bdc-70d19cbf7b8c,74102d5d-1db1-4bfc-af3a-5115ecb4678c,2025-05-21 01:40:23,"Barrett, Thompson and Smith",638.64,Lake Alexander,Online,Shopping,Success
+b88416d2-d28f-4f68-8871-d7b38468b74d,85e3ade5-58c1-4ad6-b3f8-dea47f14eafa,2025-03-03 01:41:45,Watson Ltd,3970.92,Jessicaville,Online,Health,Success
+861b4f5b-45a0-4539-ade8-370ace9e9ebd,55c34853-0783-443c-a65f-ad87c57c7498,2025-01-24 03:10:57,Joseph-Ray,1400.3,South Spencerstad,Online,Bills,Success
+414f4994-2845-4780-9e20-c9572ab8bd33,911f730b-dbff-40b0-bfe6-70f30e3141ec,2025-06-10 21:29:29,Shannon Ltd,3753.76,East Joycetown,POS,Groceries,Success
+5d2d904f-78c5-4073-8bc5-72073e9aec86,03254fbd-dce8-41c5-9bd3-0aec0b461173,2025-03-27 02:19:52,White Inc,2614.87,Walkerbury,Online,Groceries,Success
+92502e59-13f0-4822-9374-8a1145712959,51e744e4-b864-4a08-aa75-752d6a8fcacb,2025-03-25 02:55:46,Shaw Inc,4732.54,East Linda,Online,Fuel,Success
+ddb449dc-7710-4966-a082-7f7611a529b4,66a302d6-f43e-4c48-8bc1-f9e5fb3df063,2025-03-07 13:09:46,Murphy-Tran,4823.73,West Jamesshire,Online,Groceries,Success
+97790e84-5e47-4e22-b6c3-e6423e19fc1d,9f6a6a65-bd54-4a04-8dcd-0009c8d57717,2025-04-17 12:44:41,Oconnor PLC,2188.74,East Adam,Online,Groceries,Success
+b186a5a8-d6ee-426b-a2cd-159058af393c,8aa2b4c9-3ba5-4d76-861e-fb9568f82063,2025-07-01 01:33:33,Tapia Inc,2273.46,Sweeneyport,Online,Health,Success
+f610396b-7df5-4abf-ab79-0d013cf88d20,fbad793f-87a1-4c02-b487-9e411a9c672a,2025-01-23 08:38:55,Dawson Inc,421.84,East Phyllishaven,POS,Health,Success
+15bc2a3e-bf76-45d7-b97c-6c3c755d814b,5f5ba255-e544-4887-b36a-b3ed69be173a,2025-05-04 12:06:17,Wagner Ltd,3027.22,Jonesshire,POS,Groceries,Success
+42d04d55-4aab-47b2-bc9d-128a21761930,f6d70248-a995-4cc3-af5b-09a60ff1c51f,2025-06-25 23:03:46,Howe-Long,2207.98,Louisview,Online,Entertainment,Success
+95af6d0c-c528-4425-87a9-f33c22d839d3,33e4f986-f18c-4cdc-931e-b7233bcdf203,2025-02-01 21:22:03,Garcia Group,4451.65,Edwardsville,POS,Health,Success
+769de1e3-4eed-4124-b3b0-d6763527a5c8,c534ca08-f6f2-4d1c-9bb8-b9c8893259f3,2025-03-04 04:32:38,Davis Ltd,2053.78,Margaretton,Online,Health,Success
+3f8b4433-b60e-495c-9759-ba9625f88c74,53ea4919-db48-42c2-95ff-2a1f370b9a29,2025-03-21 19:23:56,Palmer-Byrd,3359.03,Loriburgh,POS,Shopping,Success
+8cd4b90a-bf82-41bc-8e52-fc4273c374a6,dac726b6-6786-4fb3-b3bc-9a7107f4fee5,2025-03-01 05:54:54,Murray and Sons,2423.91,North Bryanbury,Online,Travel,Success
+f004e897-a15b-4e18-afb0-64065f4b1a97,668c879b-d2dc-42c8-b2b8-d8aa21768dd7,2025-05-16 21:58:02,Aguilar LLC,573.17,North Wendyborough,POS,Shopping,Success
+d8e70aeb-e7b3-4085-978b-e96820f87ba2,cf2e3296-7184-4713-a55f-65b7e709fba6,2025-06-21 18:35:50,Martinez-Dunlap,2973.68,East Sandrachester,POS,Travel,Success
+6d39da75-aee7-4ab2-a1fa-8e7a078c26ce,7f0223bc-651e-4252-b974-4cded259f960,2025-02-14 06:51:26,Lewis-Lopez,4380.68,Seanberg,POS,Food,Failed
+7fb75c57-4b8c-431f-a5b4-09833eebc04a,9df2372e-9e82-4aae-9d36-16a108dec921,2025-04-01 17:32:25,"Mendoza, Miller and Reyes",3042.01,Gonzalezhaven,POS,Travel,Success
+fd498e20-04ff-4ab2-8b7b-0b3a8b2d158a,cd5ae324-fe7c-40e9-a179-1e933fc825ac,2025-03-27 00:05:15,"Howard, Stephens and Washington",1142.42,Paulburgh,POS,Entertainment,Success
+c74e48ff-cf89-469d-a550-d73607806e71,3811b519-98dc-4e0b-91a1-f5df06ac1010,2025-03-07 06:45:31,Stokes Group,1815.56,Katiebury,POS,Travel,Success
+889fe107-443b-4d0f-bdbc-3093a8284442,3f738f50-19a2-476f-a8dd-2bfdf956be95,2025-06-19 05:40:55,"Brown, Davies and Robinson",2913.09,Kellyburgh,POS,Food,Success
+5bd93609-b297-4782-bcf4-74aace63cb1a,5168bbf2-97af-4bde-bc8e-9d782d14e9f4,2025-07-08 04:58:22,"Johnson, Haynes and Meza",3323.37,New Stacy,POS,Food,Success
+4f1e1a37-8ac8-4d93-be02-921df86b543a,e1b243cc-cf76-4343-bced-f994d631c383,2025-02-14 19:40:16,Johnson-Brown,3543.22,North Alisha,POS,Health,Success
+573bfc17-2167-435e-8e73-34f233932b6c,9d37efb6-eafb-4e90-94ec-84ce002ccb25,2025-05-30 22:41:20,Sellers LLC,988.89,North Dylanberg,Online,Bills,Success
+12916e60-f5e7-4daf-9d69-6bc8dc54d59b,86bb42c7-d8b2-48b6-9c65-4aa2c63ce21d,2025-03-25 06:34:36,"Mcmahon, Foster and Garcia",3730.75,Marcusburgh,Online,Travel,Success
+a630ad9d-7cb9-43f5-b5ed-f382a3a6ef83,cab63107-6fd6-4b3a-b2dd-9456bb7b6c05,2025-03-14 08:09:55,Mann PLC,1154.15,Jeffreyshire,POS,Groceries,Success
+2099e71f-4b65-4bcc-b041-6f19bbe71835,4e8bf78a-60dd-47f1-ace3-d822d08012b8,2025-02-15 05:41:53,"Smith, Miles and Berry",1913.26,East Carriebury,POS,Travel,Success
+beced21a-54c7-443b-a401-342a7f05fbf5,efcac577-1aa6-47cb-90c7-e6aca3bfe403,2025-01-26 20:07:21,Reed LLC,862.34,Lake Nicole,Online,Travel,Success
+55f3ad50-e2fb-4984-bab2-7bcea39c3bd5,ab86bafd-b57e-4883-9258-6d9016b6bf61,2025-04-08 10:57:49,Baker and Sons,3343.5,West Jonathanville,POS,Groceries,Success
+f8170ebf-6b6e-44c5-bb8a-a843702f31e5,62ccc604-0c53-444b-8053-f649b86d066b,2025-02-13 00:42:38,Snyder-Gray,1156.29,Garciafort,Online,Health,Success
+29a3db6d-39bf-4a38-afe9-be90c21c3fb3,a6a5f0ff-93fb-41d0-9d32-6d9cc9ea356a,2025-04-09 08:40:09,Lloyd Inc,1487.91,Andrewview,POS,Fuel,Success
+29310971-601e-4211-a34f-76b42b8c03bf,5780be17-12fe-4c2b-9acf-42c5f3a02120,2025-06-02 20:48:54,Payne Inc,2036.79,Brookefort,Online,Food,Success
+e3c6dedb-9b79-4afa-aa3d-418da754a29f,f143e545-6e6b-44b9-87ef-2ba8b45a6ab3,2025-04-06 01:02:16,Brown LLC,4732.09,East Robert,Online,Fuel,Success
+4811e562-a91c-4192-83e8-644b8a45a905,badf9397-ecf2-4429-b8d7-7d2f8dda4ff2,2025-03-10 11:30:17,Davis Group,687.92,Hernandezstad,POS,Bills,Success
+99a7b99b-a005-45e1-a97a-2846d2eaef18,4b6797a1-166e-4fe3-ad77-959500fa0eb4,2025-04-15 00:00:36,Davis and Sons,1963.02,Lake Kelly,Online,Health,Success
+788fd0cd-65c0-4b93-88ed-abdd4ef03f80,1d91fe39-d801-4004-b93b-ed1b14f9c394,2025-04-16 16:52:25,"Baker, May and Hughes",4322.65,Nicolestad,Online,Bills,Success
+39eb038a-436e-4c49-b70e-09db7092d401,43675d58-0b6c-43c8-b21e-54192fc3e649,2025-06-23 06:35:14,Elliott-Hernandez,4613.7,North Elizabethside,POS,Bills,Success
+d73e7bb9-0f9c-417b-8db8-dadf3a3e46b0,96f84ff7-c1a7-4883-b880-287869fb0763,2025-03-27 21:33:45,"Barnes, Nichols and Camacho",3576.54,Armstrongbury,POS,Fuel,Success
+08e3f771-b6dc-4d05-9a9b-ccc1e71c681a,6511e61a-1436-45f5-8c81-926079ec533c,2025-04-19 05:28:47,"Lester, Mcbride and Byrd",202.2,North Stacy,POS,Shopping,Success
+cef74829-363e-4ef4-b8df-cc3a2acb4fbd,fbff8a7d-f2f5-4176-ac41-cbd372f444ab,2025-02-18 03:41:10,Williams Inc,3128.81,Harrisberg,POS,Travel,Success
+ceae1325-ea07-4d80-ba23-6c22e92a7b97,51db1a37-4204-4733-9855-0b1ed5881c1c,2025-01-24 17:48:57,Hughes Group,618.73,Melissahaven,POS,Bills,Success
+966b62ea-9f80-496b-b34e-356ac95b61f8,032a461a-df9b-4c1f-aacb-1f6d7549c9f9,2025-04-23 04:49:58,Rodriguez-Hernandez,2039.26,North Annaville,POS,Health,Success
+693016ea-e0bd-41ee-9807-cf74e1509425,891f4683-de12-4bf1-893d-6196c926a021,2025-03-04 00:29:00,Pena-Armstrong,3917.68,Johnsonview,Online,Travel,Success
+09eda6f5-66d7-4d97-b193-c8b8ae49c079,9bd0d4c7-9e45-455e-a4d3-875167294d3c,2025-03-29 14:02:43,Vaughn-Williams,1050.13,Mccallstad,POS,Health,Success
+d7c4caed-47c4-4c51-8f9a-5f984d950273,cb2cc805-d140-4430-967e-642e052dfb9a,2025-04-17 04:37:44,"Cohen, Compton and Perez",4112.85,Terrimouth,Online,Entertainment,Success
+a543148e-9adf-4981-aab1-9e15ba92992e,44f8b53c-5224-4d05-9369-2867c626e38f,2025-01-29 01:37:27,Alexander Group,1354.24,Malonestad,Online,Shopping,Success
+b5a6571c-4fa5-435e-90cc-460428b26b1b,ca9f1d59-83e8-4700-8e63-813ed22e3226,2025-04-20 03:21:16,Taylor-York,3311.99,East Jamesborough,Online,Groceries,Success
+5c418a83-eb04-459c-8cf1-73f974d9d1f5,08775804-3fde-4814-8ec0-ad4bd6441a9d,2025-05-28 13:20:58,Hill Group,2862.3,Reidville,POS,Health,Success
+2d761ffa-7233-45af-9813-3da17d2120ad,5f59fb4d-3def-47ba-87d2-fd4dae61716a,2025-06-29 18:15:06,Matthews-Bailey,3173.37,Port Patricia,Online,Groceries,Success
+0cb5ee5c-62f5-47c2-8706-fec248fa4e98,1723ecdb-b058-4256-94b3-e8cfbfbbeab3,2025-02-12 08:43:15,"Chan, Lewis and Walker",2266.82,Lake Jamie,POS,Fuel,Success
+c47fa57e-f796-411f-87c1-fb1bdd58631b,052226b9-8366-4636-a8d5-76b8a6ce6d7a,2025-05-24 04:47:55,Wells and Sons,1824.52,New Lauren,Online,Fuel,Success
+f78ee9e8-b676-491d-8e32-9b4bf168c605,ce1a1669-9bbc-4cbc-809c-a8f23948fe22,2025-05-29 11:24:46,"Hill, Woodard and York",284.28,Kingmouth,POS,Fuel,Success
+1a312044-95a0-4356-a5ab-c9ff9fa4a627,d30608be-8548-467b-ad5c-ba244d59616b,2025-01-13 03:45:34,"Key, Levy and Franco",4334.83,Kennethville,Online,Bills,Success
+dc8ab6a7-533c-4ed5-a3fe-047946c79b36,fd053963-5616-4f7e-9057-a0027b53359e,2025-03-06 11:53:41,Douglas-Farley,2816.15,Jacobhaven,Online,Groceries,Failed
+cf5e0f0b-cd67-45df-9b79-04e0ce30a61d,0e88c8ec-e651-43e1-bd84-6fc9c3f62136,2025-05-08 05:52:31,Guerrero-Becker,2901.12,Lake Tylerport,Online,Health,Success
+95410a9d-090a-4a93-bc9a-79986365fc2a,6793cb09-6b27-4eff-a82b-5b364269c28c,2025-05-29 05:21:28,"Cabrera, Cooper and Reeves",2556.7,Knoxstad,Online,Groceries,Success
+8ee9581a-e061-465f-a859-6f8cd73418fe,2b843ef3-d86d-455d-8cd9-916481df62f4,2025-02-15 21:40:18,Davis-Anderson,4505.72,Jessicaside,POS,Travel,Success
+a7890770-55ec-424a-a64b-9b37ae01a122,f269921c-2edd-4141-a9a1-c6d5c34e9baf,2025-01-29 01:41:05,Kelly Ltd,945.54,Robertmouth,Online,Groceries,Failed
+787515b9-1e26-4d31-99e9-275876b90436,4b46ef33-95e7-4614-82b4-02815f269466,2025-01-22 03:40:12,"Silva, Blackburn and Jones",2667.94,New David,Online,Health,Success
+daaf7529-deef-482a-8dd7-015869c165ae,4c610ae8-87a3-4f10-a1b5-12edae423568,2025-02-10 00:11:45,Gay LLC,1486.18,Benitezmouth,POS,Health,Success
+7cd2192f-14b0-4f62-8768-b07f2e2bdc6c,b7360c4f-dcc5-4975-90fe-819924aa5685,2025-03-17 07:40:59,"Hatfield, Edwards and Brown",356.59,Hillburgh,POS,Travel,Success
+1689e0b8-c79d-4b62-8379-44c1c90394ea,7d54ec82-288f-4435-83b5-34db938703c9,2025-02-05 20:35:34,"Hamilton, Jordan and Patterson",2834.02,Reyeston,POS,Fuel,Success
+527c8f50-e45a-47e8-839a-8ed5f337b261,5f8392d5-bb0c-4919-b30c-cff588a5fa0d,2025-06-07 16:41:00,"Lee, Rhodes and Sims",4272.67,East Heather,Online,Health,Success
+4e5d8f12-96b3-4f4a-80da-a8ca62305d27,1a4b1606-2101-4bff-8fe5-474558274e80,2025-02-13 03:53:16,Colon LLC,3351.7,Stephenhaven,POS,Fuel,Failed
+2240063b-fed7-47be-afd0-d2f7e3524444,6f04af36-567c-4d44-862c-92fd98abb2e7,2025-03-19 06:46:05,Howard-Lopez,3522.55,Smithbury,POS,Shopping,Success
+812faa38-96f6-4c09-859c-1ba0bbec721d,3610901c-2196-43b5-bc21-109bba27bc64,2025-02-13 13:02:36,Richardson Ltd,4696.21,South Nancyview,POS,Bills,Success
+a976dc4d-0c47-4187-bea3-5d37980b6853,0c7031eb-9f85-42dd-88e4-4a48c5709e30,2025-02-01 17:21:45,"Huff, Williams and Wilson",1709.54,Jamesside,Online,Travel,Success
+a15c159a-af8c-4888-b1f8-1ad9349b5089,27335670-b3ad-42ba-b972-09c040b374f8,2025-01-13 12:52:47,Fisher-Garcia,2174.69,Cindyberg,POS,Food,Success
+1e23da4b-9e21-441f-b801-102682f73861,1adba8cf-e60c-4638-94a5-a81e6b382a0a,2025-03-07 15:01:35,Glover Group,983.29,New James,Online,Health,Failed
+68e5c8cd-b414-4e4a-9ba0-c3e033a0daa7,f91e5fcd-85ec-4729-94dd-1b56435391b2,2025-03-10 01:57:13,Williams Group,2482.73,Lake Sarah,Online,Shopping,Success
+1c453357-e829-4a67-96c8-e3d7abf0263e,03438b64-00b3-400f-bc08-899054a27051,2025-06-22 21:58:53,"Caldwell, Hernandez and Davis",1549.38,Lake Jenniferview,Online,Food,Success
+76dae194-439d-429d-8bc8-1c16fa2fbd74,fd1935cc-74ed-460e-bb2d-520ba4f34185,2025-01-21 10:54:29,Li Inc,4394.32,Michaelmouth,Online,Bills,Success
+0bbf6334-e3ea-4d7f-8219-a845d9eb404c,1851d1cf-1dab-410a-bd10-f87c6d0e0597,2025-01-13 14:35:37,Alvarado and Sons,986.15,Michaelmouth,Online,Groceries,Success
+d0a17fe8-5f64-4a53-97cb-a85dbbaa574f,e0e3c5ce-44af-4cb7-9f2e-befcf480b91e,2025-03-19 06:43:16,Wilson Group,1885.07,Nelsonfurt,Online,Groceries,Success
+cc0243c6-e2d9-43c8-a61a-cd8e6bf7240f,ccc62fed-7a6e-43d0-99c5-9cd9b09d721b,2025-02-13 02:45:45,Anderson Ltd,3786.72,Port Erikchester,POS,Entertainment,Success
+2e671784-702b-4014-adab-2c2f91a646da,cd613988-7b90-442f-973b-6977e9462820,2025-05-10 10:29:23,Maxwell-Carr,1616.39,South Samantha,POS,Entertainment,Success
+a7ac590c-42f9-4f92-9036-ca810bc4d7ba,70d0ebcb-6949-4ce5-a339-5b1a1ce97871,2025-03-13 17:58:20,Bush Ltd,4740.94,Lake Morgan,POS,Groceries,Success
+a9660a5a-6ecf-4ed2-9861-c9f39e44e98c,b359390e-b030-4aaf-85ea-16e084e3b774,2025-06-01 19:57:40,Olson Ltd,3912.81,Hernandezside,POS,Shopping,Success
+282c6470-ef32-472a-a4b5-c72302fb2869,0df80b89-9ce7-4ed1-bcdf-e961e45e2ad0,2025-04-19 21:37:59,Christian-Booth,4026.17,Port Travisbury,Online,Fuel,Success
+a4b0718e-8ced-4707-b903-4b6581c61eeb,0ce3c8c8-4735-4e4f-b85b-6d0a54b58635,2025-03-26 06:05:47,Montoya-Miller,2454.89,Solismouth,POS,Travel,Success
+7f53dc0a-fb0d-4cda-9e63-926150e96888,72730e7b-7f9a-4277-9b49-6e6d1688782f,2025-06-05 10:34:58,"Smith, Powell and Johnson",2627.96,Port Christopherport,Online,Fuel,Success
+f34a7949-74ca-4ad7-abe5-be96a7939a2e,34f43404-8ff5-4701-8222-6c16e3de4ec0,2025-03-18 22:00:47,Bryan-Velasquez,885.53,Riverafort,POS,Shopping,Success
+c262cad0-18f1-41e4-9d30-a29073d92ace,b7461b72-5d00-4f1b-a83c-1c2bb776e729,2025-05-19 16:15:42,Smith LLC,549.4,Amystad,Online,Groceries,Success
+d26404b9-23f4-4a55-be0f-60b22a061609,e599bd3c-0bb8-4d38-9b37-ef19b3bc912f,2025-05-30 22:18:32,"Griffith, Rodriguez and Carr",4659.31,North Sarah,POS,Food,Success
+5682d038-b77f-49b9-b0c9-c51fc80b2af7,d315fafa-7500-4785-b730-dfba6494dd5c,2025-02-01 15:44:32,Williams-Schultz,1932.41,Port Patriciamouth,POS,Travel,Success
+011c4544-7fb3-4be5-b6bf-2f7222778161,811317a8-f4c8-4393-96dd-6c82a8909e31,2025-04-24 17:11:40,"Williams, Mcconnell and Roberson",238.12,Glassburgh,Online,Health,Success
+632d0302-1a82-433c-a0dd-a0ffd0b3d752,bb01b2a5-2c74-4800-941c-23fab11af726,2025-05-19 09:47:28,"Obrien, Morris and Keith",774.24,Pettybury,POS,Groceries,Success
+ce072a52-73ed-4223-8b4e-f503f8722413,57c5982c-f6ae-40e8-a5da-ced0460a6125,2025-02-06 15:04:31,Gutierrez Ltd,780.08,Meganside,POS,Groceries,Success
+37a3c30a-a1f0-4a7a-8db7-8572ef7db821,bca0258e-b63d-45d5-905c-7527dc57546d,2025-02-19 17:43:42,Weber LLC,4538.7,Samanthaberg,Online,Fuel,Success
+8ae0b8a0-80ff-4909-ad85-2212f554e1f8,f9a55cf2-a66c-4fa1-b5dc-8a9afb38cd91,2025-05-26 13:14:44,"Morris, Wilson and Bell",832.65,Aguilarchester,POS,Travel,Success
+d8e8b97c-e0a2-4901-8932-936e88addab1,d7654a18-e4d4-46eb-bf74-531cac9b389a,2025-04-03 17:58:50,Mills Inc,1264.44,Thomaston,Online,Food,Success
+aef2ab2f-495f-42fc-bbc8-c77e29330fc4,c918a346-c00c-400c-8458-b006332cce0a,2025-03-01 09:12:59,Franco Ltd,3230.86,Jamesside,POS,Travel,Success
+acef45c4-de37-40fb-9db9-4eee1a3c2131,73dd3bc6-d064-45a8-9bd2-9cb108453b2f,2025-06-04 07:48:08,"Hancock, Newton and Hoffman",4535.22,New Kristen,Online,Entertainment,Success
+61af663c-ed2e-4bcd-8c06-df90aa1c4023,b1644235-49a2-4fde-b235-7a3ccc7f9517,2025-03-27 23:39:11,Frye-Daugherty,1527.23,Tammyton,Online,Health,Success
+dc461b34-c7ea-419b-9e6c-f36b9edd2182,33fd862d-4057-4470-be61-27a80351b09d,2025-06-29 16:33:42,Greer-Pruitt,2141.18,Kariside,Online,Health,Success
+4b4f3b2e-3189-40ec-b6db-b2b6b993ff63,c6b18d94-324b-4c3d-9a77-91a2bd0b0fa2,2025-04-08 21:08:47,Lucero Inc,2677.69,East Jill,Online,Bills,Success
+214c0a4d-43a5-44d2-8e7d-3f5a4773e66a,6db2b020-0a67-4143-a090-103c1e8df8ad,2025-02-11 23:30:01,"Singleton, Smith and Owens",313.32,North Eric,POS,Health,Success
+d7d80594-9d98-47bc-a018-0791eeb093fe,c60ea4d5-0d04-4cb6-98cd-26555297e1ad,2025-05-20 06:08:58,Henry-Armstrong,179.59,Charlesmouth,Online,Health,Success
+8150e0c9-c948-484b-9174-035785467426,2f120b9e-f4fd-45b7-b84f-6e3b86804a8a,2025-02-11 16:14:16,Daniels-Powell,3319.81,Jeffreyborough,Online,Health,Success
+c0ae0b1a-f347-4736-b7ec-07a64b27b079,5c5d3f1b-54c0-46c2-94f6-516ea9d049dc,2025-05-11 18:54:50,"Wells, Hoffman and Goodwin",1826.27,North Elizabethmouth,POS,Shopping,Success
+f57a431e-3e6b-44fd-9f02-7cbfeb29d912,9d1b83df-a46b-4fce-a78d-147c3d877034,2025-01-19 11:21:32,"Blackwell, James and Hogan",3454.94,South Jonathanport,POS,Shopping,Success
+cd8565ce-83a9-4235-9ffd-4015c53f1db3,d275bd43-8451-4303-a94d-4fbe06531d47,2025-04-20 12:23:49,Tucker-Phillips,409.19,West Willie,POS,Food,Success
+88802d4d-89b8-47ee-85f8-33cff4ce8477,f8bca9ac-2ada-42ce-9890-99c9f2be029f,2025-01-13 03:40:49,"Jones, Santiago and Ayala",314.65,Houstonborough,Online,Food,Success
+6f6bbdf3-c673-42e0-bdca-c10ff9e9cf93,e0ee5e8a-b3e6-44c6-9428-df6c89aa4293,2025-05-17 06:42:39,Burgess and Sons,1619.37,South Jenniferton,POS,Groceries,Success
+12087e20-8ede-4b46-807d-0affcb51a911,2d90e4ee-0de4-433e-92c0-620c1667c518,2025-05-03 09:02:09,Bartlett Group,3791.13,Hayesfurt,Online,Fuel,Success
+01829782-88ea-47d4-9e49-4952ac5d4e57,63b664f4-0452-4779-90ff-de646edaba8c,2025-05-16 06:45:50,"Montgomery, Avila and Richards",3926.12,West Sarahville,POS,Fuel,Success
+c3e90323-4811-46e9-9625-34ca9b47e639,4d2551eb-af95-4e79-8971-bf514a32bb22,2025-07-10 16:12:36,James-Short,1903.29,South Ericbury,POS,Groceries,Success
+4b83b570-8bb4-495a-9976-b2bacc27f386,cbf925b5-6418-46b7-bf2b-43b422e9e527,2025-05-14 20:23:04,Evans Ltd,1994.56,Susantown,Online,Groceries,Success
+929daf9f-0149-42af-8ab1-a5041f8c56e0,243113fd-8e19-4d07-9ff0-b9bf8db3c2c1,2025-05-07 14:07:50,Medina-Arroyo,1900.0,Jasonstad,POS,Travel,Success
+29344e15-2477-4047-8336-a758d9f93502,a55bc44f-e7d7-4d1d-a9a3-b9913634646c,2025-02-16 10:59:08,Jensen LLC,486.74,North Howard,Online,Fuel,Success
+fd75a5f3-eeaf-4a83-8044-46bfd9f48bbd,0dec644c-da2d-4156-913a-1734ccb68571,2025-04-28 07:20:56,Newman-Jones,492.34,West Coreyshire,POS,Fuel,Success
+3c0a584e-a7cd-43cb-abda-06b220d2b528,5b6d6b7c-54b2-4582-b398-1e9e7cb882a0,2025-01-31 03:45:40,Harvey-Mccullough,3616.55,Toddmouth,Online,Groceries,Success
+911ddc79-90c8-4420-a703-5b27958c2936,b18678ce-4e40-4fba-a8cf-e5899dc89e1a,2025-03-23 12:10:48,Benjamin-Jackson,307.54,Johnbury,POS,Bills,Success
+2261ddef-5c07-4653-9711-73e446d47d41,6fa5d3b0-a40d-4ea5-bd64-987eb652ae99,2025-05-23 16:35:26,"Rivera, Castillo and Griffin",4902.13,Tonyville,Online,Travel,Success
+d391d017-dbd4-486d-87d6-723cd77fbeeb,14fc3a5d-9b4b-4377-a542-deb92cff45f8,2025-02-07 21:58:21,"Gonzalez, Gross and Sims",2090.43,North Melissatown,Online,Food,Success
+e80382eb-3677-4be4-970c-9eb4c4ea4ece,67b6e467-9432-4797-94f6-c67ad0095507,2025-01-18 20:20:53,"Green, Shannon and Fernandez",3077.11,West Philip,POS,Food,Success
+76f6a778-2246-4ac9-8a7e-ebc2db6f1c33,bbb4c0ce-96f0-4335-85ab-48dae4354021,2025-04-19 00:55:14,"Davis, Cox and Smith",1256.38,Port Tamara,POS,Health,Success
+723b80d4-23ef-4561-839e-7623c1d841d3,2a74b90c-af25-47f5-9d31-762afb5abb36,2025-02-11 15:32:51,Knight PLC,2879.5,Lake Jessica,Online,Groceries,Failed
+1017ab44-3b53-464b-bcd6-1da4c2efda8b,38048786-0a58-443c-9bda-0655f06dca24,2025-03-04 01:30:39,Young-Barnett,1922.87,Paulmouth,Online,Shopping,Success
+b4280f0d-1a6c-4459-92f6-531fa605b7c9,fb07ee93-0a37-41ab-8be3-534ae1ad640c,2025-04-22 23:17:28,"Gallegos, Davenport and Baker",2050.37,South Desiree,POS,Entertainment,Failed
+4067f790-8444-4504-93ed-280ad5e14d1f,e5f22dfb-a741-404b-9672-1e985d8416e0,2025-03-25 19:20:12,Black LLC,226.98,Tommyfort,Online,Groceries,Success
+2a6524af-709d-438b-a393-6d45e1ccff0d,8078636d-01b0-42c1-9aad-9234e31db345,2025-02-25 09:21:07,Robertson LLC,4576.36,East Jacob,Online,Fuel,Success
+6a241f46-3af7-4a21-a93e-7b5b1e4ae3a7,d123f7c1-b7a1-467e-9a1e-00365cbaa496,2025-06-18 05:51:21,Cortez-Olson,3549.79,Mendozashire,Online,Fuel,Success
+20bd1422-0b0b-41de-be61-2d6605bf0618,6930b0c4-d557-4899-a5b2-c7ea29476f54,2025-05-03 02:09:30,"Martin, Soto and Williams",4993.28,North Gabriel,Online,Travel,Success
+904865c6-f820-4aa7-996f-7e8867cbfc39,f54f1b92-8442-406f-ae16-f0b6ec257a75,2025-05-15 13:03:16,Johns Ltd,462.85,Staceyborough,Online,Groceries,Failed
+38283a05-2baa-43c9-bb4e-9ecdde0787b1,78ae8d5d-fe26-4e77-9b45-47e072fefdc2,2025-06-21 23:17:32,Burke-Norton,4071.51,New Donna,POS,Health,Success
+98b6691b-7416-4e82-ac1f-41ce57b94dfb,af82e70c-b964-4e4f-aaef-cf3b43b7a0ef,2025-05-06 09:53:39,Hall Group,2794.99,North Allen,POS,Fuel,Success
+2649a478-d396-4f0a-ab77-af9eaf32baf8,811db4af-e8ca-4483-9c0e-337585d0691c,2025-05-09 07:24:12,Thompson PLC,3587.86,Port Amandaville,Online,Health,Success
+d3d877a8-8a0e-457a-9a7d-509de6e8790b,215d3b1f-a8cd-444d-bb74-244017db4c2f,2025-01-11 23:06:39,"Banks, Boyd and Wood",694.68,Lake Alyssabury,Online,Shopping,Success
+96cbdafb-59bb-4900-a198-b718c4c7aab4,ca20508d-7b6c-4129-8d63-8ba8f03c664b,2025-06-16 23:19:23,"Velez, Hood and Johnston",2520.71,Andersonfort,POS,Health,Success
+e073c1d0-9929-4feb-8884-2a14157511ad,dbeae9f8-e8fb-4a96-bb85-f6e1c40f5405,2025-04-27 07:29:15,Scott-Smith,4916.76,New Alexandrahaven,Online,Travel,Success
+68aa1236-50de-4f43-8de5-c35ab0117b0a,349651d6-a790-45b0-a001-f54d01d77831,2025-03-23 01:49:01,Moore Ltd,2050.98,Joseside,POS,Bills,Success
+65bf8e04-ae3c-4ce6-bde6-849b468b22af,9ca4364d-5d9a-49f1-908e-3a956c6e8796,2025-06-07 07:56:29,Gutierrez PLC,4134.36,Whiteside,Online,Shopping,Failed
+c6319c16-5827-4c1d-93e0-f2354e80d10b,fd0ee0b6-40f7-424b-bbd7-b4bf8e0eabb7,2025-05-28 17:21:38,Fitzgerald-Wyatt,3247.46,Lake Jerryburgh,POS,Groceries,Success
+8cf29000-cd04-4001-96a3-dcccc93c9cc6,668b28da-8222-4d7f-b6e6-ba8519abdc15,2025-05-10 23:04:59,"Cohen, Williams and Price",1788.12,Port Christopherberg,Online,Shopping,Success
+38c5ef5e-4359-4f43-9067-93b61690636b,6f74e55d-99a9-4f6a-ad05-473278bf46fa,2025-03-24 17:44:04,Lynch Ltd,4562.49,Ariasfurt,Online,Travel,Success
+0eb5e5a7-98f3-4640-b6a9-e3e3b62bccb1,49560c36-8560-4e8a-a7fb-19979d2cd944,2025-06-10 22:47:39,Bowman Group,1590.21,East Melissahaven,Online,Health,Failed
+b2cd9a0a-840c-4cb0-82b3-43849979cf26,c8b190e1-089a-4f4f-b1da-e8174937b90f,2025-02-25 17:10:56,"Jackson, Johnson and Allen",1204.8,East Christopherview,POS,Travel,Success
+33478a91-9609-498e-a7cb-a27a65281970,ab6ef8dd-5a66-4316-a641-4954c798a445,2025-04-22 06:22:24,Mclaughlin Inc,3211.78,New Justinside,POS,Shopping,Success
+39ee80ab-46c9-47e0-90c5-9550f69a0539,58f42098-591c-4524-953b-0f1fea3e072a,2025-05-09 11:22:32,Gibson Group,3110.7,West Gregoryhaven,Online,Shopping,Success
+1df44d3e-f26f-4b19-9708-013e4b541670,80cfb1db-1287-4313-8f02-6c2c1b414999,2025-06-16 15:29:58,"Frye, Walter and Li",2945.17,Heatherfurt,Online,Health,Success
+c68da4b2-f613-4da0-96f4-01e5c1e9c4fa,3e4727fd-c51c-41f4-bbcf-2b31902bd154,2025-04-10 19:54:22,"Murray, Matthews and Johnson",2861.73,West Carlosbury,Online,Travel,Success
+5a64845e-f498-46ad-a994-bf8450d3ba03,ccd7608f-3adc-438c-b380-46efad4a2b3c,2025-04-22 00:36:05,"Smith, Collier and Wright",3243.12,South Emilymouth,POS,Entertainment,Success
+37f3f32b-5a81-462a-9059-f77b79ff89d9,2db13deb-ee6f-4bea-8df7-164713769ff9,2025-07-04 09:19:59,"Adams, Valentine and Vega",2141.28,South Jillian,Online,Groceries,Success
+33e88249-3aad-4840-b4ef-71df43f19b58,df6c0d60-3df7-4a69-bc45-144a3c1fdff0,2025-06-22 20:37:19,Huff LLC,2773.33,Port Daniel,POS,Groceries,Success
+01b216cf-9d23-43cf-be1f-48c4a9d6290d,f4adfa22-ad02-45f5-9417-c2f9eb91731a,2025-06-09 03:09:13,"Rubio, Charles and Watson",4056.01,Travisshire,POS,Fuel,Success
+82d9a774-ea7f-4c7d-83a6-b204fc014a22,2ed0b0b2-7da5-4b6e-8654-e77dde67a278,2025-03-07 03:39:16,Walker-Ray,3474.21,New Laurenfort,Online,Groceries,Success
+afb3e3ad-dc43-4ed5-a4ca-a1c758e7edf8,80a23721-0856-4684-8a6f-c4b3f08d312e,2025-06-11 09:29:31,Bryant Inc,2375.77,Stewarttown,POS,Shopping,Success
+5c91f845-534f-496d-99ca-9c1b94bcf47a,61223189-35f3-4e4a-ac92-04b40306a258,2025-05-10 17:16:13,Lopez-Baker,3619.98,Thomasmouth,POS,Bills,Success
+c08fe6d7-b361-470a-ab49-acc635e574e0,6c878546-7faf-4458-af14-f7775dad348e,2025-03-25 00:36:22,Dickerson-Ramirez,1915.65,New David,Online,Health,Success
+cdd8af09-451b-4267-b887-5caf1991103f,d06eccbc-3a83-49b6-af9e-7a0e936db4a7,2025-02-26 12:26:57,"Reynolds, James and Thomas",700.36,South Linda,POS,Entertainment,Success
+a1726883-d971-4e00-a4ad-5e9bfedd22d9,226cbc6a-7fe5-44b6-abe8-c7562d36226c,2025-04-22 02:56:40,"Le, Floyd and Evans",347.97,South Coreyburgh,POS,Bills,Success
+18a73d94-a13e-466d-96c6-d99779fe7ccc,411920f6-d056-4199-b728-ddc20f5e8b47,2025-04-09 01:59:34,"Cook, Ward and Castro",4340.01,Mauricechester,Online,Health,Failed
+93acb00e-32ee-4b38-9b07-07e5f68ece81,adf9568b-de0b-4e18-99e1-10eb1f096b9d,2025-05-03 13:22:48,"Banks, Thompson and Deleon",3633.53,Markhaven,Online,Shopping,Success
+9d1911a5-618d-4e71-9412-83fbe3bef3d6,726a030d-bc8c-4a8f-8655-a5977ccc63de,2025-03-08 08:48:50,Welch-Thomas,2622.15,Lake Lindsey,POS,Fuel,Success
+e835f080-d951-4f98-a79f-2f429256d707,9cc05b67-a19b-424a-abfc-2a47565f1491,2025-01-25 14:00:18,Martin and Sons,541.24,Loganport,POS,Groceries,Failed
+71e4dc42-e33f-452c-8570-83e4653c8f74,a5076897-9afa-4267-8479-1214b5def807,2025-06-12 09:07:13,Adkins-Meyer,1154.21,Gutierrezburgh,POS,Food,Success
+f0c0804b-406b-402d-a97a-4f4e3c10871b,ba4f4b03-2002-4d9f-85e9-f407daada0b1,2025-06-05 04:13:40,"Brady, Clark and Sanders",2524.98,North Sharonfort,POS,Fuel,Success
+fefac198-c3d6-4d54-8623-bc7465a29cc8,c55be95d-06bf-49c4-8dc7-81048c662766,2025-01-27 21:29:46,Baker and Sons,4251.14,Lake Sarahfurt,POS,Shopping,Success
+205c8491-a061-49db-b172-f63648bfb602,bcd2e8eb-3f55-40cd-bab7-127e4f32ea54,2025-02-06 05:18:47,"Roberson, Johnson and Alvarado",3664.79,Michellemouth,POS,Health,Success
+2296e3f1-71e1-4b9f-8c6d-768e45bcf3ba,ef52d36e-8a63-493c-9ef3-306af99863f2,2025-05-27 04:40:32,"Thompson, Harper and Welch",350.67,Millsside,Online,Health,Success
+16ed0330-ce01-4413-ba25-16fe8a27b0b0,7b4d8646-58e0-458f-a8af-301f4f45f6f7,2025-04-07 12:44:08,Diaz-Green,460.31,Alexhaven,POS,Fuel,Success
+88fc3da1-781d-4b6c-8969-40325808d790,22e49628-d913-457d-821f-84fcd0bcbad5,2025-01-13 08:16:40,"Weeks, Arroyo and Woods",3153.88,Port Russellport,Online,Shopping,Failed
+69678586-3046-4008-9fa7-20128c57a277,01d909b4-cbf8-429e-bb30-ee9798d53cf5,2025-07-02 00:41:26,"Kim, Wright and Espinoza",2030.13,Claytonbury,POS,Health,Success
+ccca1e14-c3b8-480f-8440-8e983d53ec43,a0152b5b-6c17-4150-9447-16cc4352acea,2025-07-07 10:12:44,"Aguirre, Cohen and Mitchell",1075.38,Robertland,POS,Food,Success
+73e88db6-9e23-43d0-b491-5c14a30b669c,1c405045-4a22-4ae9-a2f9-cafe2eb23ca3,2025-03-05 13:45:16,"Dean, Lopez and Smith",771.48,New Andrewville,POS,Groceries,Success
+3b997815-0219-49c7-ba23-b07a703c1286,b71714cd-2002-41bb-84e9-f8fb4838a888,2025-01-29 05:51:57,Smith and Sons,829.81,Robertfort,Online,Health,Failed
+14898025-548b-4ce3-881f-ec82ca9acf77,b26a51a5-76b4-4672-9f13-e10bff7a884d,2025-06-24 12:43:41,Brown Group,1660.8,New Theodoreborough,POS,Fuel,Success
+1f38df55-033a-44d6-9408-539161af0e8e,d13757e1-4005-453d-976f-1e65e54c8739,2025-06-09 21:20:08,"Wright, Wise and Ramos",2585.84,East Stevenville,POS,Fuel,Success
+f6121d2c-ae73-40eb-a39d-8fe7790b185c,355cca9c-fb6b-41dc-aa7f-7e0685695f97,2025-03-13 08:03:09,Moore-Chandler,181.52,West Timothyport,POS,Travel,Failed
+f9287d26-37c0-487a-aaac-826edd18ab28,0d559b64-e334-4bac-9c44-ebd132df8d45,2025-02-02 15:48:08,Chen LLC,2960.14,East Laurashire,Online,Groceries,Success
+94c176b9-0ac0-43d5-b805-90f002493a09,3e3b1a40-ca05-43a2-a553-b15f1ea15b0f,2025-06-12 20:46:36,"Alvarez, Carlson and Watson",3312.4,East Ericland,Online,Food,Success
+a008ac20-c272-48e6-bf39-a117f83b1806,ee4c1b18-56a2-449d-9e5f-8273af9a1168,2025-01-23 09:22:54,Kelly and Sons,935.51,East Tonymouth,POS,Shopping,Success
+e44cbd41-ce36-492a-98e9-d0aac1b6edd4,a50784cb-c9df-401e-8ef0-0de1fb4f1972,2025-04-06 22:05:44,"Lee, Norris and Howard",1286.76,West Rachel,Online,Entertainment,Success
+7d76ab58-b271-415b-8af0-9ec34b726a7c,8f1c3fa0-7000-4009-b4e5-70ba7c3cc2bc,2025-02-17 13:56:13,"Lopez, Bailey and Oconnor",1637.09,Mikaylaside,Online,Bills,Success
+436adb9d-d1c5-4a00-8bb1-3407730ad7de,27afbff9-87f8-4f62-91a1-e557290c4414,2025-04-26 21:35:03,Gibson-Parsons,2110.85,Grosstown,POS,Food,Success
+b893b08a-5219-4216-bd21-1daf9ec5405d,c6a90598-5d34-4833-9b59-2a199ea6ed4a,2025-01-24 00:42:41,"Coffey, Fuentes and Lee",2641.55,Cannonberg,POS,Groceries,Success
+18a440bd-1c47-40a5-9270-2b29a41247a2,68e8f311-5295-4a96-887b-25d79cf023dd,2025-04-23 07:48:31,"Jones, Conley and Anderson",1637.39,East Danielborough,Online,Groceries,Failed
+7d6ab7c2-a86d-4706-a37b-3648d617b9c0,a449d64f-922d-4ab6-8825-2b391947ea42,2025-04-23 20:01:21,"Miles, Scott and Diaz",1777.4,North Sarahborough,POS,Fuel,Success
+cd0fa4a6-77d2-494f-9478-0c9dd5030b43,e3c7ca9a-edab-4dab-bdcc-c026a7df30b2,2025-05-15 19:05:06,Ward Ltd,1042.09,Shortton,Online,Fuel,Success
+d59ef0fd-1204-44d6-bbfb-1b710a683eb8,876de8c5-440c-4e5b-9def-57b4d2da43ec,2025-03-11 17:48:55,Blackburn PLC,1201.85,North Jessicaside,POS,Fuel,Success
+a0154d65-91ed-454a-bfae-ef01a8290f3c,86b4852c-3170-46b9-b080-7a5d62a50eec,2025-02-15 11:14:31,"Curry, Perry and Garcia",3482.18,Emilychester,POS,Health,Success
+81338bdc-66cc-4376-8cca-89632e2e77a4,cadec379-2ab4-43f6-9aa6-7474e200c157,2025-03-18 06:26:29,"Moore, Murillo and Ramos",2846.39,Rachelside,POS,Fuel,Success
+a21c1209-c3a1-462d-a98f-546d5f290290,d8485a54-531c-4812-bf31-950afdd084a1,2025-04-05 08:12:12,"Morris, Allen and Gardner",3415.45,Cannonview,POS,Bills,Success
+b9efaad6-000c-421a-a5a7-ba30f5b70dd9,728f5897-73d0-46c7-b62e-cf885c29850b,2025-01-18 11:03:29,Larson-Holmes,4777.58,Adambury,Online,Fuel,Success
+b0916fb7-f17f-4f92-926a-a790c5828939,058e389e-509d-47cd-9b10-7e7f36fea0b4,2025-06-20 09:53:16,Ellison-Dixon,4781.04,North Benjamin,Online,Health,Failed
+3ff69f41-9508-4801-a3be-7ca05df924fb,43d643ed-236e-4832-a7f6-a2ac5b0c4170,2025-02-25 23:20:56,Shepherd-Davis,3314.26,Carrollborough,POS,Entertainment,Success
+7cffae92-2c43-4667-bb87-4b4acafbc4fe,531f04af-b93c-42d5-93c3-7b5dbbf8da91,2025-06-21 01:34:58,"Warner, Weiss and Davis",2739.03,Benjaminshire,POS,Shopping,Success
+5911f42e-559a-4f54-8559-cd0febffc53f,0e50f355-c7b6-41cd-9417-182a61ad018a,2025-07-01 13:38:51,Butler-Parrish,3730.37,Lake Denise,Online,Entertainment,Success
+0ddb545b-61ea-4a65-a1d7-70eac704e80e,a2466cd7-02ed-4d15-adbc-36d89a307096,2025-03-11 21:54:39,"Williams, Fernandez and Hernandez",4535.4,East Brent,Online,Entertainment,Success
+9343e6ea-985a-4548-80ba-22a47213e7cc,f89617fa-6493-45ef-bf53-76a4bb48bbba,2025-04-19 17:43:36,Walker LLC,2125.18,Hernandezmouth,POS,Travel,Success
+4336ffe5-6631-46a7-8c53-b74c0c9fa6e6,beccf760-9249-4e3a-b9d1-9c4e1521ad35,2025-01-28 06:00:51,Shaw-Ayala,773.59,Port Dennis,Online,Bills,Success
+8fa8ae34-3233-4053-9242-ba54a6f9c0e1,65339cf0-7ce4-470e-b2b7-3d808f2e08d3,2025-05-11 08:16:14,"Warren, Allen and Adams",4415.17,Morrisshire,POS,Groceries,Success
+30c3ef8a-592a-443d-9d82-2e3a6c6d282b,69e08370-abf7-45d0-9cce-c1ef16efacdf,2025-03-15 00:15:59,Wheeler-Johnson,3803.96,Garystad,POS,Health,Success
+70c23600-2554-4c1a-9f88-dda37134ae6e,cd840a47-fd7b-4279-9253-55159dc0a8b5,2025-01-20 10:39:43,Gonzalez LLC,389.9,Port Jessica,Online,Entertainment,Success
+ed3e2846-9efa-4407-b2ed-cab03e3869e2,0df63417-bd55-48c7-9cc4-64ed15f7ef61,2025-02-09 09:44:33,Smith-Benson,3643.28,West Shannontown,Online,Shopping,Success
+85f4c0a2-8be2-4516-b42c-5348363d75f1,89bab9c8-bd71-4da3-b581-a63254f5df70,2025-06-06 10:25:33,Dunn-Dean,4204.26,Lake Holly,Online,Bills,Success
+4165964c-0b21-4308-86dc-4e34a9dcfe52,e7f2418a-953f-4fd4-a069-4b6d04b51c12,2025-02-13 19:15:52,Campbell Ltd,1012.93,Briantown,POS,Food,Success
+a8fc5690-e9b1-44a1-9a22-1b85a9b92a1d,457498ca-a90e-419d-a37e-3f94110c8d92,2025-03-22 16:15:37,Smith Ltd,2883.01,Hallfurt,Online,Health,Success
+dde4d194-7c12-4198-90c1-b8f7e76428c4,197fa0fd-b5ae-4a56-ba03-3d6c822fb2f0,2025-05-07 16:14:06,"Miller, Gonzalez and Rasmussen",4946.59,North Johnhaven,POS,Shopping,Success
+58c69158-04b4-4ac9-a831-7f0dbe9063fb,64b5d9a5-7d6c-4d2a-9564-d1d34e0fbae1,2025-05-24 14:38:22,Kelly-Turner,2393.3,Lisaview,Online,Travel,Success
+f1b2f143-078b-43a9-bd88-565ad09a934b,fffcd743-e3f1-4406-a31d-9c8be0f0fe79,2025-04-29 11:43:20,Perez-Peterson,3682.48,Sandovalland,POS,Shopping,Success
+a0226155-df69-4d17-9cc9-6aedad9112c5,f5ea4128-854d-43bf-a1d8-5365bada0c94,2025-05-25 00:56:52,Butler PLC,1751.85,South Tara,POS,Entertainment,Success
+a7087280-34ee-4b67-a1bb-d1838acfd4d6,72fcc072-544c-4132-9af9-7493e8e46b31,2025-02-07 15:19:51,"Weaver, Mcbride and Huffman",4295.12,Haleyhaven,POS,Bills,Success
+2528b516-c521-4f2e-b9cc-83ede8b45c6a,fee543b3-6e18-4184-a29f-e85be8d91a20,2025-05-19 03:46:44,"Stark, Stewart and Grant",525.02,East Lonnieberg,Online,Shopping,Failed
+f610f40d-69fe-490f-b90f-b6e4e15052f3,51958000-c3f3-4c8c-878c-3875ba21e269,2025-04-01 14:05:22,Ramos-Peck,2439.53,Edwinborough,Online,Food,Success
+9df034d3-9caa-437c-bc67-95e2c32fc21b,06b4ed27-2f4b-4be8-a1ac-fdb51b555f6d,2025-03-04 13:11:14,"Bradley, Hall and Hall",1254.05,West Christopherfort,POS,Health,Success
+5fbbcda5-a64a-4fe8-b646-e2b17800e27a,9ace63cc-d89c-43f6-8098-580d22538040,2025-02-16 10:54:36,Henry-Taylor,3642.12,East Antonio,Online,Fuel,Success
+38f95001-69bd-40d8-b340-2dd3451575b9,ece9504b-03d7-4962-b804-43eec3b8d179,2025-06-04 21:11:48,"Mcneil, Todd and Jones",3494.57,Camachofort,Online,Travel,Success
+67a55936-6d74-4a0b-bf2d-39c8e338e579,7521aa18-dde4-45c1-932c-5c01b017c533,2025-06-11 10:56:25,Franklin Group,882.61,Phillipshire,POS,Travel,Success
+09dbebb5-c973-4495-b440-b852e033500e,a43262b3-8675-420e-8941-bdd39803a82e,2025-04-22 19:55:05,Hayes Inc,4709.11,New Amanda,POS,Entertainment,Success
+a1722ee3-c3e1-447c-8420-e0d8632c817e,8ec57d47-0a0c-44e5-bc34-1b4ffbdc532e,2025-01-21 07:15:03,Carter Group,754.49,Kimport,Online,Groceries,Success
+b0a0c1cd-0df6-4527-ab45-bc389cf65e33,4b5f174b-6c26-4b56-aa9e-dda7761ad914,2025-04-22 02:46:14,Ford Ltd,3068.12,Davishaven,POS,Groceries,Success
+8be15610-b234-4948-a4f2-ae4cf016716b,95dfe6cb-c75a-4c94-ae05-7f791cf8d03f,2025-02-07 00:05:32,Gutierrez-Hayes,4029.78,South Brittany,Online,Entertainment,Success
+52f69081-4005-44b8-9716-03b174661e6f,e1eeb1f1-33b1-40dc-a552-d0a8b66f3507,2025-05-26 01:09:15,"Meadows, Hogan and Higgins",3019.49,North Dannymouth,Online,Groceries,Success
+ca835709-ba14-4757-a253-8cdfb5103e9c,8618e40d-15d6-4658-9ce9-dbbca25291f3,2025-04-21 02:03:21,"Herring, Gray and James",1872.75,West Ariana,Online,Food,Success
+c4e775b9-2dca-465a-a504-fd28de6ae459,2980f6ff-266c-47fb-9cd8-1a8ba8d6faf6,2025-05-29 23:53:57,Barnes LLC,4524.15,Robertsburgh,Online,Shopping,Success
+c3f0fac3-9f60-4d17-80e7-882433ee16e7,f5defeba-21ae-439b-a606-d7c21e18046d,2025-03-01 21:06:00,Ellis Group,4286.98,New Nicolebury,POS,Travel,Success
+1453e17e-711e-4e6f-a8ff-ae1774283491,79c842cb-a8d3-410e-96bf-ae6e37850b5c,2025-05-08 11:23:23,"Smith, Khan and Ramirez",3612.9,North Jack,POS,Travel,Success
+aac04912-084d-4822-9a94-8e70253741e4,09668d08-5959-4d27-a73d-27460e18ab96,2025-05-03 23:37:29,"Evans, Knapp and Williams",2282.87,Chaneyburgh,Online,Groceries,Success
+92811c92-984f-4323-b329-2925b107094e,a9325ae1-9c70-40da-88cd-29c5ac0e1f71,2025-06-13 14:38:12,"Thompson, Gibson and Riley",2135.58,North Kaylamouth,Online,Groceries,Success
+d7e323cf-6d65-4847-8229-411611529a73,d1fcdedd-6102-4b56-a5c4-82ff5e5a90c1,2025-04-28 14:53:55,Carter and Sons,1610.03,Lake Michelemouth,Online,Bills,Success
+0ee52f63-9caf-4df1-b584-5d71b221e1c5,35b86d0a-864f-46dd-a9ec-09d586eced99,2025-02-01 22:54:10,"Blair, Fuller and Benitez",114.78,Ramseyport,Online,Travel,Success
+feb9ea24-933c-4d00-8680-0a0b42791490,510564f9-d909-49aa-9bdd-3d7a6d53628b,2025-05-12 18:02:44,Ho-Mendez,1788.19,Stonefort,Online,Food,Failed
+4a5d6cea-b565-464e-bb93-a53f9c02040d,e237c877-2e0e-4673-8ed7-cd177e14c595,2025-02-18 07:33:04,Wilson Group,438.19,Lake Melaniechester,POS,Food,Success
+365bc763-a333-4ea8-8e58-de208f7763e0,5982aa44-5573-48cf-8ba5-605069fe99a9,2025-01-13 22:09:59,"Harris, Campbell and Tyler",981.91,Kevinside,Online,Bills,Success
+65637d1f-5763-4902-9552-0712af92ef22,1d2467e2-0191-419d-845c-3fbb52ecac27,2025-06-01 09:27:01,"Gilbert, Johnson and Thompson",4467.53,Marthafort,POS,Bills,Success
+27c7655a-7b43-4a72-a2c0-c475a54976d0,091a5875-cc18-4d0e-b978-dc84ea89a979,2025-05-13 12:29:01,Mcclain-Herrera,3445.38,Stevenchester,Online,Health,Success
+b9974024-90a0-44ab-8ca1-cabd85650e0b,d5c97d5d-0e57-49ec-be1a-070fed83a4c8,2025-05-23 10:08:51,Peters-Smith,4964.95,Laurenstad,POS,Shopping,Success
+fbce7087-56d2-414d-87fa-f6f7d73aae7b,47cc3a66-2638-48be-b838-93a210f35676,2025-03-25 14:15:58,"Ferguson, Martin and Obrien",1191.18,New Darryl,Online,Food,Failed
+0818c965-b5b8-4351-9083-0841db9a0eb7,b48c531b-4eeb-47ff-8064-f074c847b130,2025-03-05 10:47:13,Miller-Wiley,2368.72,Shannonport,POS,Bills,Success
+0992b886-c8f2-46c1-9fcc-997d1cbb304b,2ccda2af-4d64-4b63-866c-fb2b3754f16f,2025-06-11 18:17:00,Gentry Group,1312.81,Port Timothyhaven,POS,Shopping,Success
+860c7b68-dfb6-4a5f-bb81-41f07bc4d138,ec737598-5711-45fd-b0b1-b67b2771a422,2025-03-12 23:53:38,Thomas-Wiggins,4693.31,East Jenny,Online,Food,Success
+4f9c78bf-010d-483f-9da7-6d6985b864d4,dd643387-b6b3-4fbc-a338-fb2975992b0a,2025-07-11 18:31:28,Mcdaniel PLC,2154.28,West Steventon,Online,Entertainment,Success
+93daf60d-05c1-4422-8ffe-bdfdbedcacb7,a8b331a0-c424-4277-8544-94ab1a64f27d,2025-06-08 00:21:17,Fowler-Clark,594.39,East Justin,Online,Groceries,Success
+2639e214-45cc-4a93-9e1e-5d91abcec90f,70ecf41b-c5d5-4016-91b3-ccf588433a38,2025-02-11 07:30:07,Wilson-Mullen,3546.1,East Amyside,Online,Entertainment,Success
+92f71993-4884-4b5b-8dd3-214cb4508610,f17aa7a9-243d-416d-8563-abbe51883a26,2025-02-28 06:29:06,Jones PLC,2071.1,Amberton,Online,Entertainment,Success
+6233960a-1b1e-46c3-8cea-af73aced4d55,e73e2bc5-7882-4064-876c-108d214c87b1,2025-01-22 04:14:35,Simmons and Sons,3902.71,Jensenport,Online,Fuel,Success
+889277fe-cf2e-45ef-abbe-274ac226ab53,b680873b-32b9-4542-9143-e0a25513b74f,2025-01-26 23:33:59,Bradley-Davis,4590.35,Davisport,POS,Health,Success
+f28bf846-3b50-4fda-b875-b1c777243aa3,c438eae0-b5d0-4595-a4f8-9e23af39f2ce,2025-02-24 04:28:30,Callahan PLC,4393.67,Robertafurt,Online,Bills,Success
+e1e538a1-dc5c-4673-89ed-66a654905f79,aa4946f4-ead1-4758-b319-f18d2ef03a1b,2025-03-15 19:00:49,Freeman-Jones,398.69,West Timothyburgh,Online,Bills,Success
